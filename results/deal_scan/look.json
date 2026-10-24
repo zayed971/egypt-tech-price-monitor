@@ -1,0 +1,1596 @@
+[
+ {
+  "id": "30cb06688030473fdd6772c1",
+  "zone": "EG",
+  "store": "Ennap",
+  "source": "ennap",
+  "category": "wearable",
+  "title": "Amazfit Balance 3 Smart Watch 49mm — Stainless Steel",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 19999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ennap.com/products/amazfit-balance-3?variant=52687937077531",
+  "signals": [
+   "cheap_vs_peers: median of 45 other offers 46,999"
+  ],
+  "score": 0.574,
+  "verdict": "look",
+  "model": "Amazfit Balance 3 Smart Watch",
+  "flags": [
+   "none"
+  ],
+  "why": "Known brand smartwatch, huge apparent discount",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "11ef8d158d063ecfbb0a8107",
+  "zone": "EG",
+  "store": "Ennap",
+  "source": "ennap",
+  "category": "tablet",
+  "title": "Apple iPad Air M4 11-inch — 256GB / Space Gray / Wi-Fi",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 53499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ennap.com/products/apple-ipad-air-m4-11-inch?variant=51849836593435",
+  "signals": [
+   "cheap_vs_peers: median of 7 other offers 67,499"
+  ],
+  "score": 0.207,
+  "verdict": "look",
+  "model": "Apple iPad Air M4 11 256GB",
+  "flags": [
+   "none"
+  ],
+  "why": "big saving on high-value known product",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "1c081cb0199413f763ef8281",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "cpu",
+  "title": "Processor AMD Ryzen 7 5800X3D 8-core 16-Thread with AMD 3D V-Cache Technology BOX",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 18499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/processor-amd-ryzen-7-5800x3d-8-core-16-thread-with-amd-3d-v-cache-technology?variant=42651781234837",
+  "signals": [
+   "markdown: was 33,333"
+  ],
+  "score": 0.445,
+  "verdict": "look",
+  "model": "AMD Ryzen 7 5800X3D",
+  "flags": [
+   "none"
+  ],
+  "why": "high-demand CPU, suspiciously deep markdown worth verifying",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "27541e162983be486c408b9d",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "motherboard",
+  "title": "GIGABYTE Z890 EAGLE WIFI7 DDR5 Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 12325,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/gigabyte-z890-eagle-wifi7?variant=45731031842965",
+  "signals": [
+   "cheap_vs_peers: median of 2 other offers 35,020"
+  ],
+  "score": 0.648,
+  "verdict": "look",
+  "model": "GIGABYTE Z890 EAGLE WIFI7 Motherboard",
+  "flags": [
+   "none"
+  ],
+  "why": "known brand, modern board, big absolute saving",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "547adf521db1f304f2e06c6d",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "cpu",
+  "title": "CPU AMD Ryzen 7 9800X3D 8 Cores- 16 Threads Desktop Processor Tray — Tray",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 22444,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/amd-ryzen-7-9800x3d-8-cores-16-threads-desktop-processor?variant=46459346419861",
+  "signals": [
+   "markdown: was 33,500"
+  ],
+  "score": 0.33,
+  "verdict": "look",
+  "model": "AMD Ryzen 7 9800X3D Tray",
+  "flags": [
+   "none"
+  ],
+  "why": "top gaming CPU, massive saving, high demand",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "a715a3a1e218de96d367b659",
+  "zone": "EG",
+  "store": "Ennap",
+  "source": "ennap",
+  "category": "wearable",
+  "title": "Apple Watch Series 10 Aluminum Case — Silver / 42mm / GPS",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 18499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://ennap.com/products/apple-watch-series-10-aluminum-case?variant=49439561941275",
+  "signals": [
+   "cheap_vs_peers: median of 13 other offers 28,999"
+  ],
+  "score": 0.362,
+  "verdict": "look",
+  "model": "Apple Watch Series 10 42mm GPS",
+  "flags": [
+   "none"
+  ],
+  "why": "high-value item, very large saving",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "fdee9abbd4f418004ca16c05",
+  "zone": "EG",
+  "store": "El Badr",
+  "source": "elbadr",
+  "category": "motherboard",
+  "title": "MSI MAG X870E TOMAHAWK WIFI AMD AM5 ATX Motherboard - DDR5, Wi-Fi 7, PCIe 5.0, 5G LAN, USB4",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 18100,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 26.9,
+  "url": "https://elbadrgroupeg.store/msi-mag-x870e-tomahawk-wifi-am5-ddr5-atx-motherboard",
+  "signals": [
+   "cheap_vs_peers: median of 5 other offers 28,499"
+  ],
+  "score": 0.365,
+  "verdict": "look",
+  "model": "MSI MAG X870E TOMAHAWK WIFI",
+  "flags": [
+   "none"
+  ],
+  "why": "high-end board, huge saving worth checking",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "e0177101114ed772390b93ba",
+  "zone": "EG",
+  "store": "El Badr",
+  "source": "elbadr",
+  "category": "motherboard",
+  "title": "ASUS TUF GAMING Z890-PRO WIFI Motherboard – 16+1+2+1 Power Stages, AI Intelligence Suite, NPU Boost, DDR5 9066+ MT/s, PCIe 5.0, Thunderbolt™",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 15499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 29.1,
+  "url": "https://elbadrgroupeg.store/asus-tuf-gaming-z890-pro-wifi-motherboard",
+  "signals": [
+   "cheap_vs_peers: median of 11 other offers 26,999"
+  ],
+  "score": 0.426,
+  "verdict": "look",
+  "model": "ASUS TUF GAMING Z890-PRO WIFI",
+  "flags": [
+   "none"
+  ],
+  "why": "High-end ASUS board, ~43% under peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "1427e95a28c4ea5fc8777a56",
+  "zone": "EG",
+  "store": "Ennap",
+  "source": "ennap",
+  "category": "wearable",
+  "title": "Apple Watch Series 10 Aluminum Case — Jet Black / 46mm / GPS",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 18999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://ennap.com/products/apple-watch-series-10-aluminum-case?variant=49439561908507",
+  "signals": [
+   "cheap_vs_peers: median of 21 other offers 28,999"
+  ],
+  "score": 0.345,
+  "verdict": "look",
+  "model": "Apple Watch Series 10 46mm GPS",
+  "flags": [
+   "none"
+  ],
+  "why": "recognisable Apple product, large saving on high price",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "94fa3983cf3c8bf888bfc963",
+  "zone": "EG",
+  "store": "Egypt Laptop",
+  "source": "egyptlaptop",
+  "category": "motherboard",
+  "title": "Asus Prime Z890-P WIFI LGA1851 DDR5 ATX Motherboard",
+  "condition": "new",
+  "basis": "source_default",
+  "stock": "in_stock",
+  "price_egp": 11999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 24.2,
+  "url": "https://egyptlaptop.com/computers/computer-components/asus-prime-z890-p-wifi-lga1851-ddr5-atx-motherboard",
+  "signals": [
+   "cheap_vs_peers: median of 4 other offers 24,250"
+  ],
+  "score": 0.505,
+  "verdict": "look",
+  "model": "Asus Prime Z890-P WIFI",
+  "flags": [
+   "none"
+  ],
+  "why": "Known motherboard, large saving vs peers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "8650f9baa456e47f0acb0518",
+  "zone": "EG",
+  "store": "AHW Store",
+  "source": "ahw",
+  "category": "motherboard",
+  "title": "Gigabyte X870E AORUS ELITE WIFI7 DDR5 AM5 ATX Motherboard Black",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 16499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ahw.store/products/gigabyte-x870e-aorus-elite-wifi7-am5-atx-motherboard-black?variant=47842348761306",
+  "signals": [
+   "cheap_vs_peers: median of 2 other offers 25,999"
+  ],
+  "score": 0.365,
+  "verdict": "look",
+  "model": "Gigabyte X870E AORUS ELITE WIFI7",
+  "flags": [
+   "none"
+  ],
+  "why": "premium AM5 board, large genuine discount",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "e124924a4483449127c3303e",
+  "zone": "EG",
+  "store": "Sigma Computer",
+  "source": "sigma",
+  "category": "motherboard",
+  "title": "MSI INTEL PRO Z890-S WIFI PZ",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 13499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 22.7,
+  "url": "https://sigma-computer.com/en/item?id=msi-intel-pro-z890-s-wifi-pz-7b1errwkpsyj",
+  "signals": [
+   "cheap_vs_peers: median of 23 other offers 22,500"
+  ],
+  "score": 0.4,
+  "verdict": "look",
+  "model": "MSI PRO Z890-S WIFI PZ",
+  "flags": [
+   "none"
+  ],
+  "why": "High-end MSI board, ~40% under peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "3e3c06f45e73dcc1dd01eca9",
+  "zone": "EG",
+  "store": "Kimo Store",
+  "source": "kimo",
+  "category": "wearable",
+  "title": "Amazfit Active Edge Smart Watch (46mm - GPS) Plastic Case With Lava Black TPU strap",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 6999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 23.6,
+  "url": "https://kimostore.net/products/amazfit-active-edge-smart-watch-46mm-gps-plastic-case-with-lava-black-tpu-strap?variant=44343935172864",
+  "signals": [
+   "cheap_vs_peers: median of 21 other offers 28,999"
+  ],
+  "score": 0.759,
+  "verdict": "look",
+  "model": "Amazfit Active Edge Smartwatch",
+  "flags": [
+   "none"
+  ],
+  "why": "Recognisable brand, large gap vs peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "d123aabbfa7027b8e75784b5",
+  "zone": "EG",
+  "store": "AHW Store",
+  "source": "ahw",
+  "category": "monitor",
+  "title": "V2Com P4 15.6\" FHD IPS Portable Monitor Type-C/Mini HDMI with PU Case Cover",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 7499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ahw.store/products/v2com-p4-15-6-fhd-ips-portable-monitor-type-c-mini-hdmi-with-pu-case-cover?variant=47958890250458",
+  "signals": [
+   "cheap_vs_peers: median of 5 other offers 24,999"
+  ],
+  "score": 0.7,
+  "verdict": "look",
+  "model": "V2Com P4 15.6 Portable Monitor",
+  "flags": [
+   "noname"
+  ],
+  "why": "portable monitor wanted, huge gap but brand obscure",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "77320d780cdffc2e68848386",
+  "zone": "EG",
+  "store": "Egypt Laptop",
+  "source": "egyptlaptop",
+  "category": "motherboard",
+  "title": "Asus TUF Gaming Z890-PLUS WiFi LGA1851 DDR5 ATX Motherboard",
+  "condition": "new",
+  "basis": "source_default",
+  "stock": "in_stock",
+  "price_egp": 16999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 23.9,
+  "url": "https://egyptlaptop.com/computers/computer-components/asus-tuf-gaming-z890-plus-wifi-lga1851-ddr5-atx-motherboard",
+  "signals": [
+   "cheap_vs_peers: median of 4 other offers 24,250"
+  ],
+  "score": 0.299,
+  "verdict": "look",
+  "model": "Asus TUF Z890-PLUS WiFi LGA1851",
+  "flags": [
+   "none"
+  ],
+  "why": "Big saving on high-price known-brand recent board",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "2f59f257bae2fffb454a844e",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "motherboard",
+  "title": "MSI MAG X870E GAMING PLUS MAX WIFI AM5 ATX Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 14800,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/msi-mag-x870e-gaming-plus-max-wifi-am5-motherboard-egypt?variant=46759619494037",
+  "signals": [
+   "cheap_vs_peers: median of 33 other offers 22,500"
+  ],
+  "score": 0.342,
+  "verdict": "look",
+  "model": "MSI MAG X870E GAMING PLUS WIFI",
+  "flags": [
+   "none"
+  ],
+  "why": "high-end AM5 board, huge saving vs 33 offers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "825b0ed9e77e5358f6222097",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "motherboard",
+  "title": "Gigabyte X870E Aorus Elite Wifi 7 Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 15999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.8,
+  "url": "https://alfrensia.com/en/product/gigabyte-x870e-aorus-elite-wifi-7-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 33 other offers 22,500"
+  ],
+  "score": 0.289,
+  "verdict": "look",
+  "model": "Gigabyte X870E Aorus Elite WiFi7",
+  "flags": [
+   "none"
+  ],
+  "why": "High-price known board, large saving vs peers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "c8a74ec27f1eb31f05f243ae",
+  "zone": "EG",
+  "store": "El Badr",
+  "source": "elbadr",
+  "category": "motherboard",
+  "title": "ASUS ROG STRIX Z890-A GAMING WIFI – AI Overclocking, AI Cooling II, AI Networking II, 16+2+2 Power (90A/Stage), WiFi 7, Thunderbolt™ 4, Gen ",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 21500,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 29.4,
+  "url": "https://elbadrgroupeg.store/asus-rog-strix-z890-a-gaming-wifi",
+  "signals": [
+   "cheap_vs_peers: median of 11 other offers 26,999"
+  ],
+  "score": 0.204,
+  "verdict": "look",
+  "model": "ASUS ROG STRIX Z890-A",
+  "flags": [
+   "none"
+  ],
+  "why": "large saving on high-end known board",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "309b8b7b8f06b2c266b9515e",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "motherboard",
+  "title": "Msi Mag Z890 Tomahawk Wifi Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 16999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.8,
+  "url": "https://alfrensia.com/en/product/msi-mag-z890-tomahawk-wifi-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 23 other offers 22,500"
+  ],
+  "score": 0.244,
+  "verdict": "look",
+  "model": "MSI MAG Z890 Tomahawk WiFi",
+  "flags": [
+   "none"
+  ],
+  "why": "Top-tier board, big gap off 23 offers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "51e1ffb1969ad607525f007a",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "cooler",
+  "title": "MasterLiquid ML360 Atmos II ARGB BLACK",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 7175,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://www.compumarts.com/products/cooler-master-masterliquid-atmos-ii-360-black-vrm-fan-liquid-cooler-addressable-gen-2-rgb-amd-am5?variant=47444890910869",
+  "signals": [
+   "cheap_vs_peers: median of 2 other offers 17,000"
+  ],
+  "score": 0.578,
+  "verdict": "look",
+  "model": "Cooler Master ML360 Atmos II",
+  "flags": [
+   "none"
+  ],
+  "why": "Known 360mm AIO cooler, large apparent saving",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "655e030bf2f5e53b921931bd",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "motherboard",
+  "title": "Asus Rog Strix Z890 H GAMING WIFI Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 17199,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://alfrensia.com/en/product/asus-rog-strix-z890-h-gaming-wifi-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 23 other offers 22,500"
+  ],
+  "score": 0.236,
+  "verdict": "look",
+  "model": "Asus ROG Strix Z890-H WiFi",
+  "flags": [
+   "none"
+  ],
+  "why": "Premium board, 5300 EGP below median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "f4044f49ff5383a3fe8230fa",
+  "zone": "EG",
+  "store": "Softlink",
+  "source": "softlink",
+  "category": "motherboard",
+  "title": "ASUS TUF GAMING Z890-PRO WIFI",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 17499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://softlink-eg.com/product/tuf-gaming-z890-pro-wifi/",
+  "signals": [
+   "cheap_vs_peers: median of 23 other offers 22,500"
+  ],
+  "score": 0.222,
+  "verdict": "look",
+  "model": "ASUS TUF Gaming Z890-PRO WiFi",
+  "flags": [
+   "none"
+  ],
+  "why": "High-end board, big EGP saving worth checking",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "3016081919cf213a789e3bd6",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "motherboard",
+  "title": "Msi Mag X870E Tomahawk Wifi Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 17999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://alfrensia.com/en/product/msi-mag-x870e-tomahawk-wifi-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 33 other offers 22,500"
+  ],
+  "score": 0.2,
+  "verdict": "look",
+  "model": "MSI MAG X870E Tomahawk WiFi",
+  "flags": [
+   "none"
+  ],
+  "why": "large saving on high-value known board",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "d6fffeded822804e74f608e5",
+  "zone": "EG",
+  "store": "AHW Store",
+  "source": "ahw",
+  "category": "accessory",
+  "title": "UGREEN Nexode 300W 5-Port GaN Wall Charger with 4 USB-C PD 140W 100W plus 1 USB-A Fast Charging Adapter Block for MacBook Pro and iPhone or ",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 9020,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://ahw.store/products/ugreen-nexode-300w-gan-5-port-fast-charger?variant=47902054056154",
+  "signals": [
+   "markdown: was 14,790"
+  ],
+  "score": 0.39,
+  "verdict": "look",
+  "model": "UGREEN Nexode 300W GaN Charger",
+  "flags": [
+   "none"
+  ],
+  "why": "High-end GaN charger, 39% off, desirable item",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "24a7a3f178111e4262b13ca0",
+  "zone": "EG",
+  "store": "Ennap",
+  "source": "ennap",
+  "category": "audio",
+  "title": "Xiaomi Sound Play 18W Portable Bluetooth Speaker with IP68 and 14-Hour Battery - MDZ-42-BS — Purple",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 3599,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ennap.com/products/xiaomi-sound-play-18w-portable-bluetooth-speaker?variant=54065301324059",
+  "signals": [
+   "cheap_vs_peers: median of 5 other offers 30,999"
+  ],
+  "score": 0.884,
+  "verdict": "look",
+  "model": "Xiaomi Sound Play Speaker Purple",
+  "flags": [
+   "none"
+  ],
+  "why": "Recognisable brand, huge gap vs peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "10901295ca934fcb731eb74a",
+  "zone": "EG",
+  "store": "Ennap",
+  "source": "ennap",
+  "category": "audio",
+  "title": "Xiaomi Sound Play 18W Portable Bluetooth Speaker with IP68 and 14-Hour Battery - MDZ-42-BS — Green",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 3599,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ennap.com/products/xiaomi-sound-play-18w-portable-bluetooth-speaker?variant=54065301356827",
+  "signals": [
+   "cheap_vs_peers: median of 5 other offers 30,999"
+  ],
+  "score": 0.884,
+  "verdict": "look",
+  "model": "Xiaomi Sound Play Speaker Green",
+  "flags": [
+   "none"
+  ],
+  "why": "Recognisable brand, huge gap vs peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "04b2508e13399bce54fbd9e5",
+  "zone": "EG",
+  "store": "Ennap",
+  "source": "ennap",
+  "category": "audio",
+  "title": "Xiaomi Sound Play 18W Portable Bluetooth Speaker with IP68 and 14-Hour Battery - MDZ-42-BS — Black",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 3599,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ennap.com/products/xiaomi-sound-play-18w-portable-bluetooth-speaker?variant=54065301389595",
+  "signals": [
+   "cheap_vs_peers: median of 5 other offers 30,999"
+  ],
+  "score": 0.884,
+  "verdict": "look",
+  "model": "Xiaomi Sound Play Speaker Black",
+  "flags": [
+   "none"
+  ],
+  "why": "Recognisable brand, huge gap vs peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "7dd4fbc2e11ea1c47acac270",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "motherboard",
+  "title": "Gigabyte B850 Gaming WIFI 6 AM5 Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 8899,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.8,
+  "url": "https://alfrensia.com/en/product/gigabyte-b850-gaming-wifi-6-am5-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 11 other offers 13,500"
+  ],
+  "score": 0.341,
+  "verdict": "look",
+  "model": "Gigabyte B850 Gaming WIFI6 AM5",
+  "flags": [
+   "none"
+  ],
+  "why": "current AM5 board, large saving, in demand",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "037a36690639b99978098e67",
+  "zone": "EG",
+  "store": "El Badr",
+  "source": "elbadr",
+  "category": "case",
+  "title": "Cooler Master Elite 690 Wood ARGB ATX Mid-Tower Case – Black, 3x ARGB Fans Inc. - Natural Wood Front Panel, 270° Panoramic Tempered Glass, U",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4200,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 27.0,
+  "url": "https://elbadrgroupeg.store/cooler-master-elite-690-wood-argb-atx-black-mid-tower",
+  "signals": [
+   "cheap_vs_peers: median of 2 other offers 11,400"
+  ],
+  "score": 0.632,
+  "verdict": "look",
+  "model": "Cooler Master Elite 690 Wood Case",
+  "flags": [
+   "none"
+  ],
+  "why": "known brand case with fans, huge absolute saving",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "c58a76421f99f259f51b5f6f",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "psu",
+  "title": "Antec CSK Pro 1000W 80 Plus Bronze Atx3.1 Semi Modular Power Supply",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4589,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://alfrensia.com/en/product/antec-csk-pro-1000w-80-plus-bronze-atx3-1-semi-modular-power-supply/",
+  "signals": [
+   "cheap_vs_peers: median of 6 other offers 10,300"
+  ],
+  "score": 0.554,
+  "verdict": "look",
+  "model": "Antec CSK Pro 1000W PSU",
+  "flags": [
+   "none"
+  ],
+  "why": "1000W ATX3.1 PSU, big saving vs peers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "52ff695269672e6f4f51cea9",
+  "zone": "EG",
+  "store": "Sigma Computer",
+  "source": "sigma",
+  "category": "motherboard",
+  "title": "ASUS INTEL PRIME B860M-A-CSM",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 7399,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 9.6,
+  "url": "https://sigma-computer.com/en/item?id=asus-intel-prime-b860m-a-csm-92qwwxa9tphu",
+  "signals": [
+   "cheap_vs_peers: median of 2 other offers 10,599"
+  ],
+  "score": 0.302,
+  "verdict": "look",
+  "model": "ASUS Prime B860M-A-CSM",
+  "flags": [
+   "none"
+  ],
+  "why": "brand board well below two-offer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "d134bdfa7de7046229ac5690",
+  "zone": "US",
+  "store": "B&H Photo Video (burner)",
+  "source": "br_us_bh",
+  "category": "monitor",
+  "title": "ASUS ProArt PA278CGRV 27\" 1440p HDR 144 Hz Monitor",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 13010,
+  "price_local": 249.0,
+  "currency": "USD",
+  "age_h": 4.9,
+  "url": "https://www.bhphotovideo.com/c/product/1946412-REG/asus_proart_display_pa278cgrv_27.html",
+  "signals": [
+   "dropped: high 15,622 in 14 days"
+  ],
+  "score": 0.167,
+  "verdict": "look",
+  "model": "ASUS ProArt PA278CGRV 27",
+  "flags": [
+   "none"
+  ],
+  "why": "high-end monitor, large drop, wanted category",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "64d7ec1741b9cccf5f15bef8",
+  "zone": "EG",
+  "store": "Sigma Computer",
+  "source": "sigma",
+  "category": "psu",
+  "title": "XPG Core Reactor II 1000W 80 Plus Gold ATX3.1 Fully Modular Power Supply",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 7349,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 14.0,
+  "url": "https://sigma-computer.com/en/item?id=xpg-core-reactor-ii-1000w-80-plus-gold-atx31-fully-modular-power-supply-updxmxzubbms",
+  "signals": [
+   "cheap_vs_peers: median of 6 other offers 10,300"
+  ],
+  "score": 0.286,
+  "verdict": "look",
+  "model": "XPG Core Reactor II 1000W Gold",
+  "flags": [
+   "none"
+  ],
+  "why": "High-price known PSU, large saving, wanted",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "7f085fd3fb7e08169901ceeb",
+  "zone": "EG",
+  "store": "Softlink",
+  "source": "softlink",
+  "category": "motherboard",
+  "title": "GIGABYTE Z790 EAGLE",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 9399,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://softlink-eg.com/product/z790-eagle/",
+  "signals": [
+   "cheap_vs_peers: median of 12 other offers 12,050"
+  ],
+  "score": 0.22,
+  "verdict": "look",
+  "model": "Gigabyte Z790 Eagle Motherboard",
+  "flags": [
+   "none"
+  ],
+  "why": "Known brand board, large EGP saving to check",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "77185a6622117ae56bc55a37",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "motherboard",
+  "title": "ASUS Prime B760-PLUS D4 Intel B760 LGA 1700 ATX motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 6500,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/asus-prime-b760-plus-d4-intel-b760-lga-1700-atx-motherboard?variant=43462923485333",
+  "signals": [
+   "cheap_vs_peers: median of 3 other offers 9,499"
+  ],
+  "score": 0.316,
+  "verdict": "look",
+  "model": "ASUS Prime B760-PLUS D4",
+  "flags": [
+   "none"
+  ],
+  "why": "brand LGA1700 board far under peers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "2cf9459863a2c85bf84468b6",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "motherboard",
+  "title": "ASUS B850 MAX GAMING WIFI Socket AM5 DDR5 ATX Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 9499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://alfrensia.com/en/product/asus-b850-max-gaming-wifi-socket-am5-ddr5-atx-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 8 other offers 12,100"
+  ],
+  "score": 0.215,
+  "verdict": "look",
+  "model": "ASUS B850 MAX Gaming WiFi",
+  "flags": [
+   "none"
+  ],
+  "why": "Modern AM5 board, big EGP saving worth checking",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "1124ff4951d23fd9f40beead",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "case",
+  "title": "Antec FLUX M Micro ATX Case Compact Gaming Case Tempered Glass 6 PWM ARGB Fans USB-C 360mm Radiator",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 3250,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/antec-flux-m-micro-atx-case?variant=47265024835733",
+  "signals": [
+   "cheap_vs_peers: median of 9 other offers 6,500"
+  ],
+  "score": 0.5,
+  "verdict": "look",
+  "model": "Antec FLUX M Micro ATX Case",
+  "flags": [
+   "none"
+  ],
+  "why": "Known case with 6 ARGB fans, big saving",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "fbbde974e1b07108ba8e703b",
+  "zone": "EG",
+  "store": "Softlink",
+  "source": "softlink",
+  "category": "monitor",
+  "title": "SAMSUNG 27″ Odyssey G5 G55C QHD 165Hz Curved Gaming Monitor",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 7999,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://softlink-eg.com/product/samsung-27-odyssey-g5-g55c-qhd-165hz-curved-gaming-monitor/",
+  "signals": [
+   "cheap_vs_peers: median of 3 other offers 9,999"
+  ],
+  "score": 0.2,
+  "verdict": "look",
+  "model": "Samsung Odyssey G5 G55C 27",
+  "flags": [
+   "none"
+  ],
+  "why": "wanted monitor, solid saving on known model",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "b0a3b4505a489cb584edfd20",
+  "zone": "EG",
+  "store": "Sigma Computer",
+  "source": "sigma",
+  "category": "cooler",
+  "title": "Ocypus Delta L36 ARGB V2 Black 360MM AIO Liquid Cooler",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 3675,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 9.5,
+  "url": "https://sigma-computer.com/en/item?id=ocypus-delta-l36-argb-v2-black-360mm-aio-liquid-cooler-n7uloblditsp",
+  "signals": [
+   "cheap_vs_peers: median of 69 other offers 6,510"
+  ],
+  "score": 0.435,
+  "verdict": "look",
+  "model": "Ocypus Delta L36 ARGB 360mm AIO",
+  "flags": [
+   "none"
+  ],
+  "why": "Big brand cooler, 360mm AIO, ~44% under peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "1e05dc937ce351c8c73d5e46",
+  "zone": "EG",
+  "store": "AHW Store",
+  "source": "ahw",
+  "category": "cooler",
+  "title": "Xigmatek LK Pro 360mm Digital Arctic ARGB 2.7 Smart Digital LCD White AIO Liquid CPU Cooler",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 3699,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ahw.store/products/xigmatek-lk-pro-360mm-digital-arctic-argb-2-7-smart-digital-lcd-white-aio-liquid-cpu-cooler?variant=67449147654362",
+  "signals": [
+   "cheap_vs_peers: median of 69 other offers 6,510"
+  ],
+  "score": 0.432,
+  "verdict": "look",
+  "model": "Xigmatek LK Pro 360 Digital AIO",
+  "flags": [
+   "none"
+  ],
+  "why": "360mm AIO with LCD, ~43% under peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "22339622938847ea8368d76f",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "case",
+  "title": "ATHENA M3 Mid Tower PC Case E-ATX 360mm Radiator Support 4 ARGB PWM Fans — White",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 2699,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/gamdias-white-atx-mid-tower-computer-case-tempered-glass-gaming-pc-case-support-dual-360mm-aio-radiator-7x120mm-case-fans-4x-120mm-built-in-420mm-gpu-vga-usb3-0x-2-type-c-x1-170mm-cpu-cooler?variant=45547445977237",
+  "signals": [
+   "cheap_vs_peers: median of 9 other offers 6,500"
+  ],
+  "score": 0.585,
+  "verdict": "look",
+  "model": "ATHENA M3 Mid Tower Case",
+  "flags": [
+   "none"
+  ],
+  "why": "E-ATX case with 4 ARGB fans, big apparent saving",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "b0cd2010edc4ce154899f403",
+  "zone": "EG",
+  "store": "Kimo Store",
+  "source": "kimo",
+  "category": "motherboard",
+  "title": "MSI PRO B860M-E DDR5 Motherboard LGA 1851",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 6550,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 23.6,
+  "url": "https://kimostore.net/products/msi-pro-b860m-e-ddr5-motherboard-lga-1851?variant=49549289292032",
+  "signals": [
+   "cheap_vs_peers: median of 8 other offers 8,624"
+  ],
+  "score": 0.241,
+  "verdict": "look",
+  "model": "MSI PRO B860M-E DDR5 Motherboard",
+  "flags": [
+   "none"
+  ],
+  "why": "Current-gen LGA1851 board, solid margin",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "8fb123f2de5aff12338cea48",
+  "zone": "EG",
+  "store": "El Badr",
+  "source": "elbadr",
+  "category": "cooler",
+  "title": "MSI MAG CORELIQUID A15 360 ARGB Liquid CPU Cooler – 360mm CycloBlade Design, EPDM Tubing, Pre-Installed Fans, Universal Socket Compatibility",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4250,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 29.0,
+  "url": "https://elbadrgroupeg.store/msi-mag-coreliquid-a15-360-argb",
+  "signals": [
+   "cheap_vs_peers: median of 69 other offers 6,510"
+  ],
+  "score": 0.347,
+  "verdict": "look",
+  "model": "MSI MAG CORELIQUID A15 360 ARGB",
+  "flags": [
+   "none"
+  ],
+  "why": "known-brand 360 AIO, big saving vs 69 offers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "610b66f8d5fcdc44c223d097",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "motherboard",
+  "title": "ASUS PRIME B850M-K Motherboard AMD Socket AM5 DDR5 PCIe 5.0 Micro-ATX",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 5500,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/asus-prime-b850m-k-motherboard?variant=46350367719573",
+  "signals": [
+   "cheap_vs_peers: median of 11 other offers 7,499"
+  ],
+  "score": 0.267,
+  "verdict": "look",
+  "model": "ASUS PRIME B850M-K AM5 DDR5",
+  "flags": [
+   "none"
+  ],
+  "why": "Big saving on wanted AM5 board, no variant trick",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "fa8aa1d3738324cf48272e96",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "motherboard",
+  "title": "Asus Prime B850M K Socket AM5 DDR5 PCIe 5.0 2.5G LAN Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 5499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://alfrensia.com/en/product/asus-prime-b850m-k-socket-am5-ddr5-pcie-5-0-2-5g-lan-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 11 other offers 7,499"
+  ],
+  "score": 0.267,
+  "verdict": "look",
+  "model": "ASUS PRIME B850M-K AM5 DDR5",
+  "flags": [
+   "none"
+  ],
+  "why": "Same strong deal, coherent known-brand motherboard",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "7fcf1fab65b9918797fe4dc5",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "peripheral",
+  "title": "ONIKUMA G67 Rapid Trigger 60% Gaming Keyboard, 67-Key Hall Effect Magnetic Switch, 8000Hz Wired RGB Keyboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 1950,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://www.compumarts.com/products/onikuma-g67-rapid-trigger-60-hall-effect-gaming-keyboard?variant=47731420463253",
+  "signals": [
+   "cheap_vs_peers: median of 4 other offers 7,794"
+  ],
+  "score": 0.75,
+  "verdict": "look",
+  "model": "ONIKUMA G67 Hall Effect Keyboard",
+  "flags": [
+   "none"
+  ],
+  "why": "recognisable brand, hall-effect 60%, big gap vs peers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "9e0c24b337a588f7d7059d93",
+  "zone": "EG",
+  "store": "AHW Store",
+  "source": "ahw",
+  "category": "peripheral",
+  "title": "Corsair HS55 Stereo Gaming Headset White",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4340,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://ahw.store/products/corsair-hs55-stereo-gaming-headset-white?variant=48320146637018",
+  "signals": [
+   "cheap_vs_peers: median of 3 other offers 6,404"
+  ],
+  "score": 0.322,
+  "verdict": "look",
+  "model": "Corsair HS55 Headset White",
+  "flags": [
+   "none"
+  ],
+  "why": "brand headset well under peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "5f22e2ccbcbccfd7ece17afb",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "cooler",
+  "title": "Antec Vortex Lum 360mm ARGB White AIO Liquid Cpu Cooler",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://alfrensia.com/en/product/antec-vortex-lum-360mm-argb-white-aio-liquid-cpu-cooler/",
+  "signals": [
+   "cheap_vs_peers: median of 69 other offers 6,510"
+  ],
+  "score": 0.309,
+  "verdict": "look",
+  "model": "Antec Vortex Lum 360 AIO",
+  "flags": [
+   "none"
+  ],
+  "why": "brand 360mm AIO well below 69-offer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "3e7f0cb38ba02fdbd945d9e5",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "cooler",
+  "title": "Asus LC 360 ARGB Prime 360mm Radiator 3x 120mm ARGB PWM Fans White Edition Liquid CPU Cooler",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 5499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://alfrensia.com/en/product/asus-lc-360-argb-prime-360mm-radiator-3x-120mm-argb-pwm-fans-white-edition-liquid-cpu-cooler/",
+  "signals": [
+   "cheap_vs_peers: median of 4 other offers 7,110"
+  ],
+  "score": 0.227,
+  "verdict": "look",
+  "model": "Asus Prime LC 360 ARGB White",
+  "flags": [
+   "none"
+  ],
+  "why": "Premium white 360 AIO, 1600 EGP off median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "ef06aad60d626657467cd74a",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "cooler",
+  "title": "Cooler Master MasterLiquid Core NEX AIO Liquid Cooler with 360mm — White",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4950,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://www.compumarts.com/products/products-cooler-master-masterliquid-core-nex-digital-360-black-360mm-argb-led-digital-display-liquid-cooler?variant=47444874035349",
+  "signals": [
+   "cheap_vs_peers: median of 69 other offers 6,510"
+  ],
+  "score": 0.24,
+  "verdict": "look",
+  "model": "Cooler Master MasterLiquid Core NEX 360",
+  "flags": [
+   "none"
+  ],
+  "why": "High-priced 360 AIO, large gap across 69 offers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "18bd6bd1174e9f8484b37cc4",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "peripheral",
+  "title": "Logitech G502 Hero Wired Gaming Mouse",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 1899,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.8,
+  "url": "https://alfrensia.com/en/product/logitech-g502-hero-wired-gaming-mouse/",
+  "signals": [
+   "cheap_vs_peers: median of 20 other offers 4,480"
+  ],
+  "score": 0.576,
+  "verdict": "look",
+  "model": "Logitech G502 Hero Mouse",
+  "flags": [
+   "none"
+  ],
+  "why": "Recognisable popular mouse, big saving vs peers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "a5198a607f51b7db52ce3c4a",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "motherboard",
+  "title": "ASUS PRIME B650M-R Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4850,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/asus-prime-b650m-r-motherboard?variant=45439161565333",
+  "signals": [
+   "cheap_vs_peers: median of 15 other offers 6,199"
+  ],
+  "score": 0.218,
+  "verdict": "look",
+  "model": "ASUS Prime B650M-R Motherboard",
+  "flags": [
+   "none"
+  ],
+  "why": "Known AM5 board, solid saving worth checking",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "b58ca47ffea2539729776559",
+  "zone": "EG",
+  "store": "Softlink",
+  "source": "softlink",
+  "category": "motherboard",
+  "title": "Gigabyte B760M-E D5 Motherboard",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 4649,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://softlink-eg.com/product/gigabyte-b760m-e-d5-motherboard/",
+  "signals": [
+   "cheap_vs_peers: median of 24 other offers 5,999"
+  ],
+  "score": 0.225,
+  "verdict": "look",
+  "model": "Gigabyte B760M-E D5 Motherboard",
+  "flags": [
+   "none"
+  ],
+  "why": "Known brand board, solid EGP saving worth checking",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "7c96620b9345c460329fee65",
+  "zone": "EG",
+  "store": "AHW Store",
+  "source": "ahw",
+  "category": "peripheral",
+  "title": "Logitech G502 HERO High Performance Gaming Mouse Black",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 2960,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://ahw.store/products/logitech-g502-hero-gaming-mouse?variant=47958690955482",
+  "signals": [
+   "cheap_vs_peers: median of 20 other offers 4,480"
+  ],
+  "score": 0.339,
+  "verdict": "look",
+  "model": "Logitech G502 HERO Gaming Mouse",
+  "flags": [
+   "none"
+  ],
+  "why": "popular branded mouse, big saving vs 20 offers",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "c37ea89c1e5f6d194df1b1af",
+  "zone": "EG",
+  "store": "Kimo Store",
+  "source": "kimo",
+  "category": "peripheral",
+  "title": "HP OMEN Spacer Cherry MX Brown Switch TKL Wireless Gaming Keyboard English",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 1900,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 23.6,
+  "url": "https://kimostore.net/products/hp-omen-spacer-tkl-wireless-keyboard-english?variant=47476635730176",
+  "signals": [
+   "markdown: was 3,666"
+  ],
+  "score": 0.482,
+  "verdict": "look",
+  "model": "HP OMEN Spacer TKL Keyboard",
+  "flags": [
+   "none"
+  ],
+  "why": "brand mech keyboard, large genuine markdown",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "82d8ac6776cf19b80f06b050",
+  "zone": "EG",
+  "store": "2B",
+  "source": "2b",
+  "category": "peripheral",
+  "title": "Logitech Lightspeed G309 Wireless Mouse - Black",
+  "condition": "new",
+  "basis": "source_default",
+  "stock": "in_stock",
+  "price_egp": 2499,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.6,
+  "url": "https://2b.com.eg/en/logitech-lightspeed-g309-wireless-mouse-black.html",
+  "signals": [
+   "cheap_vs_peers: median of 11 other offers 3,650"
+  ],
+  "score": 0.315,
+  "verdict": "look",
+  "model": "Logitech G309 Lightspeed Mouse",
+  "flags": [
+   "none"
+  ],
+  "why": "brand wireless mouse well below peer median",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "f6721035309705f14536ade9",
+  "zone": "EG",
+  "store": "Alfrensia",
+  "source": "alfrensia",
+  "category": "peripheral",
+  "title": "Rapoo VT9 Pro 4K 26000 DPI 8K 68g 10 Buttons Black Purple 2.4GHz Wireless Gaming Mouse",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 2630,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 0.9,
+  "url": "https://alfrensia.com/en/product/rapoo-vt9-pro-4k-26000-dpi-8k-68g-10-buttons-black-purple-2-4ghz-wireless-gaming-mouse/",
+  "signals": [
+   "cheap_vs_peers: median of 11 other offers 3,750"
+  ],
+  "score": 0.299,
+  "verdict": "look",
+  "model": "Rapoo VT9 Pro 4K Wireless Mouse",
+  "flags": [
+   "none"
+  ],
+  "why": "Recognized brand, big saving, wanted gaming peripheral",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "ae6e5b6ff01c5bb51feefe2c",
+  "zone": "EG",
+  "store": "Compumarts",
+  "source": "compumarts",
+  "category": "gaming",
+  "title": "GameSir G7 SE Wired Controller for Xbox Series Xbox One Windows Plug and Play Gaming Gamepad with Hall Effect Joysticks Hall Trigger 3.5mm A",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 1799,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 35.9,
+  "url": "https://www.compumarts.com/products/gamesir-g7-se-wired-controller-for-xbox-series-x-s-xbox-one-windows-10-11-plug-and-play-gaming-gamepad-with-hall-effect-joysticks-hall-trigger-3-5mm-audio-jack?variant=43989808054421",
+  "signals": [
+   "markdown: was 2,899"
+  ],
+  "score": 0.379,
+  "verdict": "look",
+  "model": "GameSir G7 SE Wired Controller",
+  "flags": [
+   "none"
+  ],
+  "why": "known brand Hall-effect controller, large real markdown",
+  "reviewer": "deepseek-flash"
+ },
+ {
+  "id": "d51383840c2b336196c11a7c",
+  "zone": "EG",
+  "store": "Kimo Store",
+  "source": "kimo",
+  "category": "network",
+  "title": "D-Link DAP-1360 Access Point 1 Port 2 Antenna 300Mbps",
+  "condition": "new",
+  "basis": null,
+  "stock": "in_stock",
+  "price_egp": 710,
+  "price_local": null,
+  "currency": "EGP",
+  "age_h": 23.6,
+  "url": "https://kimostore.net/products/d-link-dap-1360-access-point-1-port-2-antenna-300mbps?variant=42328134582528",
+  "signals": [
+   "markdown: was 1,100",
+   "cheap_vs_peers: median of 2 other offers 1,418"
+  ],
+  "score": 0.499,
+  "verdict": "look",
+  "model": "D-Link DAP-1360 Access Point",
+  "flags": [
+   "none"
+  ],
+  "why": "Known brand, price far below peer median",
+  "reviewer": "deepseek-flash"
+ }
+]

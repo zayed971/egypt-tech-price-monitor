@@ -1,0 +1,14 @@
+{
+ "loq_83JE00U1AX": {
+  "factory_layout": "not yet verified from retailer primary page",
+  "platform_slots": 2,
+  "platform_official_max_gb": 32,
+  "platform_source": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15IRX10/LOQ_15IRX10_Spec.PDF"
+ },
+ "gigabyte_a16_16gb": {
+  "factory_layout": "unknown for Egyptian SKU; Japanese configuration states 1x16 but cannot substitute for this SKU",
+  "platform_slots": 2,
+  "platform_max_gb": 64,
+  "platform_source": "https://www.gigabyte.com/us/Laptop/GIGABYTE-GAMING-A16-GA6H/sp"
+ }
+}

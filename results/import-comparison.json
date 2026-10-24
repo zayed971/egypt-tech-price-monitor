@@ -1,0 +1,64 @@
+{
+ "fx": {
+  "usd_egp": 52.24751,
+  "source_url": "https://open.er-api.com/v6/latest/USD",
+  "checked_at": "2026-10-05T00:02:31+00:00",
+  "observed_at": "2026-10-05T20:46:39.926717+00:00",
+  "provider": "ExchangeRate-API open access"
+ },
+ "local_comparisons": [
+  {
+   "rule": "loq-14700hx-5060",
+   "label": "LOQ 15IRX10 i7-14700HX / RTX 5060",
+   "local_egp": 69499.0,
+   "store": "Sigma Computer",
+   "url": "https://sigma-computer.com/en/item?id=lenovo-loq-15irx10-83je00u1ax-intel-core-i7-14700hx-nvidia-rtx-5060-8gb-16gb-ddr5-5600mhz-512gb-ssd-m2-156-fhd-ips-144hz-100-srgb-dos-vsmdl0g6sneq",
+   "max_all_in_usd_no_extra_card_fee": 1330.19,
+   "max_checkout_usd_with_3pct_card_fee": 1291.44,
+   "max_checkout_usd_for_10pct_saving_with_3pct_card_fee": 1162.3
+  },
+  {
+   "rule": "ddr5-laptop-16",
+   "label": "16GB DDR5 laptop stick",
+   "local_egp": 9500.0,
+   "store": "Compumarts",
+   "url": "https://www.compumarts.com/products/products-acer-sd200-16gb-ddr5-5600-laptop-ram-egypt?variant=46759778713749",
+   "max_all_in_usd_no_extra_card_fee": 181.83,
+   "max_checkout_usd_with_3pct_card_fee": 176.53,
+   "max_checkout_usd_for_10pct_saving_with_3pct_card_fee": 158.88
+  },
+  {
+   "rule": "ddr5-desktop-32",
+   "label": "32GB DDR5 desktop kit",
+   "local_egp": 25875.0,
+   "store": "Alfrensia",
+   "url": "https://alfrensia.com/en/product/klevv-fit-v-32gb-2x16gb-ddr5-6400mhz-cl30-jet-black-desktop/",
+   "max_all_in_usd_no_extra_card_fee": 495.24,
+   "max_checkout_usd_with_3pct_card_fee": 480.81,
+   "max_checkout_usd_for_10pct_saving_with_3pct_card_fee": 432.73
+  }
+ ],
+ "verified_us_example": {
+  "retailer": "Newegg marketplace",
+  "seller": "BioStar",
+  "condition": "new listing",
+  "part_number": "CT16G56C46S5",
+  "spec": "Crucial 16GB DDR5-5600 CL46 SO-DIMM",
+  "item_usd": 274.95,
+  "shipping_usd": null,
+  "import_charges_usd": null,
+  "item_only_egp": 14365.45,
+  "checked_at": "2026-10-05",
+  "url": "https://www.newegg.com/crucial-16gb-ddr5-5600-cas-latency-cl46-notebook-memory/p/N82E16820156314",
+  "notes": "Public product-page price from seller BioStar; no Egypt delivery quote. Different manufacturer from the cheapest local Acer, so this is a capacity/speed-class comparison, not same-part arbitrage."
+ },
+ "amazon_us_quote_status": "Public Amazon.com product fetch returned HTTP 500; help-page fetches also failed. No verified Egypt checkout total or item-specific delivery eligibility.",
+ "destination": "[city removed], [city removed], Egypt; postcode not supplied",
+ "bank_fee_note": "3% is an illustrative scenario, not a claim about your card fee.",
+ "destination_city": "[city removed]",
+ "destination_country": "Egypt",
+ "postcode": null,
+ "active_laptop_budget_egp": 70000,
+ "budget_import_ceiling_all_in_usd": 1339.78,
+ "budget_import_ceiling_usd_with_illustrative_3pct_fee": 1300.75
+}

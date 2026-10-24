@@ -1,0 +1,25 @@
+{
+ "retailer_products_with_fresh_advertised_egp_price": 22218,
+ "in_stock_retailer_products_with_fresh_advertised_egp_price": 10558,
+ "per_store": {
+  "AHW Store": 1826,
+  "Alarabiya Computer": 1072,
+  "Alfrensia": 2542,
+  "Compumarts": 5601,
+  "Elyamama": 989,
+  "Ennap": 2984,
+  "Kimo Store": 5867,
+  "Softlink": 1337
+ },
+ "in_stock_per_store": {
+  "AHW Store": 1345,
+  "Alarabiya Computer": 278,
+  "Alfrensia": 1083,
+  "Compumarts": 2247,
+  "Elyamama": 316,
+  "Ennap": 589,
+  "Kimo Store": 4041,
+  "Softlink": 659
+ },
+ "count_definition": "Unique store + canonical product URL; Shopify variants collapsed. All observations fetched afresh during catalog run; prices >=100 EGP and placeholders excluded. Includes wider computer/electronics catalogs, not only five tracked product classes."
+}

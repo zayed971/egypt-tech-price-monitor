@@ -1,0 +1,646 @@
+[
+  {
+    "id": "qarenly",
+    "name": "Qarenly",
+    "base": "https://qarenly.com",
+    "kind": "aggregator",
+    "adapter": "qarenly",
+    "search": "/en/search/{query}",
+    "queries": [
+      "laptop",
+      "desktop",
+      "gaming pc",
+      "ram",
+      "ddr2",
+      "ddr3",
+      "ddr4",
+      "ddr5",
+      "graphics card",
+      "rtx",
+      "radeon",
+      "processor",
+      "motherboard",
+      "ssd",
+      "nvme",
+      "hdd",
+      "power supply",
+      "case",
+      "cpu cooler",
+      "ups",
+      "monitor",
+      "keyboard",
+      "mouse",
+      "mouse pad",
+      "headset",
+      "webcam",
+      "microphone",
+      "speakers",
+      "usb hub",
+      "docking station",
+      "monitor arm",
+      "cable",
+      "charger",
+      "power bank",
+      "laptop stand",
+      "laptop bag",
+      "thermal paste",
+      "capture card",
+      "drawing tablet",
+      "vr headset",
+      "steam deck",
+      "arduino",
+      "raspberry pi",
+      "smart plug",
+      "smartwatch"
+    ],
+    "max_details": 8,
+    "revision": 1
+  },
+  {
+    "id": "egprices",
+    "name": "EGPrices",
+    "base": "https://www.egprices.com",
+    "kind": "aggregator",
+    "adapter": "egprices",
+    "search": "/en/category/{query}",
+    "queries": [
+      "computers",
+      "computers/laptops",
+      "computers/components",
+      "computers/components/memory",
+      "computers/components/processors"
+    ],
+    "max_details": 0,
+    "revision": 1
+  },
+  {
+    "id": "pricena",
+    "name": "Pricena",
+    "base": "https://eg.pricena.com",
+    "kind": "aggregator",
+    "adapter": "pricena",
+    "search": "/en/search/?s={query}",
+    "queries": [
+      "laptop",
+      "desktop",
+      "gaming pc",
+      "ram",
+      "ddr2",
+      "ddr3",
+      "ddr4",
+      "ddr5",
+      "graphics card",
+      "rtx",
+      "radeon",
+      "processor",
+      "motherboard",
+      "ssd",
+      "nvme",
+      "hdd",
+      "power supply",
+      "case",
+      "cpu cooler",
+      "ups",
+      "monitor",
+      "keyboard",
+      "mouse",
+      "mouse pad",
+      "headset",
+      "webcam",
+      "microphone",
+      "speakers",
+      "usb hub",
+      "docking station",
+      "monitor arm",
+      "cable",
+      "charger",
+      "power bank",
+      "laptop stand",
+      "laptop bag",
+      "thermal paste",
+      "capture card",
+      "drawing tablet",
+      "vr headset",
+      "steam deck",
+      "arduino",
+      "raspberry pi",
+      "smart plug",
+      "smartwatch"
+    ],
+    "max_details": 8,
+    "revision": 0
+  },
+  {
+    "id": "compumarts",
+    "name": "Compumarts",
+    "base": "https://www.compumarts.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "kimo",
+    "name": "Kimo Store",
+    "base": "https://kimostore.net",
+    "adapter": "shopify",
+    "interval_hours": 4,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "ahw",
+    "name": "AHW Store",
+    "base": "https://ahw.store",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "ennap",
+    "name": "Ennap",
+    "base": "https://ennap.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "elyamama",
+    "name": "Elyamama",
+    "base": "https://elyamamastore.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "alarabiya",
+    "name": "Alarabiya Computer",
+    "base": "https://alarabiya-computer.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "alfrensia",
+    "name": "Alfrensia",
+    "base": "https://alfrensia.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "softlink",
+    "name": "Softlink",
+    "base": "https://softlink-eg.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "elbadr",
+    "name": "El Badr",
+    "base": "https://elbadrgroupeg.store",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "sitemap": "/sitemap.xml",
+    "sitemap_include": "sitemap-product-",
+    "harvest_scope": "catalog",
+    "max_details": 100
+  },
+  {
+    "id": "sigma",
+    "name": "Sigma Computer",
+    "base": "https://sigma-computer.com",
+    "adapter": "sitemap",
+    "sitemap": "/en/item/sitemap.xml",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "product_url_regex": "/en/item\\?id=",
+    "max_details": 150
+  },
+  {
+    "id": "egyptlaptop",
+    "name": "Egypt Laptop",
+    "base": "https://egyptlaptop.com",
+    "adapter": "sitemap",
+    "sitemap": "/sitemap.xml",
+    "interval_hours": 24,
+    "sitemap_include": "/products\\d+\\.xml",
+    "harvest_scope": "catalog",
+    "max_details": 100
+  },
+  {
+    "id": "tv-it",
+    "name": "Technology Valley",
+    "base": "https://tv-it.com",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "sitemap": "/sitemap.xml",
+    "sitemap_include": "products-",
+    "harvest_scope": "catalog",
+    "max_details": 100
+  },
+  {
+    "id": "dubizzle",
+    "name": "Dubizzle",
+    "base": "https://www.dubizzle.com.eg",
+    "kind": "used",
+    "adapter": "used",
+    "paths": [
+      "/en/electronics-home-appliances/computers-accessories/"
+    ],
+    "interval_hours": 3
+  },
+  {
+    "id": "2b",
+    "name": "2B",
+    "base": "https://2b.com.eg",
+    "adapter": "sitemap",
+    "sitemap": "/sitemap.xml",
+    "sitemap_include": "en_sitemap",
+    "product_url_regex": "\\.html(?:\\?|$)",
+    "max_details": 60,
+    "interval_hours": 24,
+    "revision": 1
+  },
+  {
+    "id": "raya",
+    "name": "Raya Shop",
+    "base": "https://www.rayashop.com",
+    "adapter": "sitemap",
+    "sitemap": "/sitemap.xml",
+    "product_url_regex": "/en/[^/?]+$",
+    "max_details": 60,
+    "interval_hours": 24,
+    "revision": 1
+  },
+  {
+    "id": "btech",
+    "name": "B.TECH",
+    "base": "https://btech.com",
+    "adapter": "sitemap",
+    "sitemap": "/sitemap.xml",
+    "product_url_regex": "/en/p/",
+    "prefer_english": true,
+    "comparison_only": true,
+    "max_details": 40,
+    "interval_hours": 24,
+    "revision": 2
+  },
+  {
+    "id": "jumia",
+    "name": "Jumia Egypt",
+    "base": "https://www.jumia.com.eg",
+    "adapter": "html",
+    "paths": [
+      "/laptops/",
+      "/computing/",
+      "/computer-accessories/"
+    ],
+    "product_url_regex": "-\\d{6,}\\.html(?:\\?|$)",
+    "max_details": 40,
+    "interval_hours": 24,
+    "revision": 3
+  },
+  {
+    "id": "amazon-eg",
+    "name": "Amazon Egypt",
+    "base": "https://www.amazon.eg",
+    "adapter": "html",
+    "paths": [
+      "/s?k=computer+ram",
+      "/s?k=desktop+computer"
+    ],
+    "product_url_regex": "/dp/[A-Z0-9]{10}",
+    "max_pages": 2,
+    "max_details": 1,
+    "interval_hours": 24,
+    "sampling_note": "Light touch: at most two search pages and one product per scheduled daily cycle.",
+    "rotate_inventory": false,
+    "revision": 1
+  },
+  {
+    "id": "noon",
+    "name": "Noon Egypt",
+    "base": "https://www.noon.com",
+    "adapter": "html",
+    "paths": [
+      "/egypt-en/search/?q=computer%20ram",
+      "/egypt-en/laptops/"
+    ],
+    "product_url_regex": "/egypt-en/.*(?:/p/|/[NZ][A-Z0-9]+/)",
+    "expected_path_prefix": "/egypt-en/",
+    "max_pages": 2,
+    "max_details": 1,
+    "interval_hours": 24,
+    "sampling_note": "Light touch: at most two discovery pages and one product per scheduled daily cycle.",
+    "rotate_inventory": false
+  },
+  {
+    "id": "dream2000",
+    "name": "Dream 2000",
+    "base": "https://dream2000.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "zstations",
+    "name": "Z-Station",
+    "base": "https://zstations.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "recoverytrading",
+    "name": "Recovery Trading",
+    "base": "https://recoverytrading.org",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "king_tech_eg",
+    "name": "King Tech",
+    "base": "https://king-tech-eg.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "dokkantech",
+    "name": "DokkanTech",
+    "base": "https://dokkantech.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "wifigroup",
+    "name": "WiFi Group",
+    "base": "https://wifigroup.shop",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "egdigitaldreams",
+    "name": "Digital Dreams",
+    "base": "https://egdigitaldreams.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "geeksstoreeg",
+    "name": "Geeks Store",
+    "base": "https://geeksstoreeg.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "v2comeg",
+    "name": "V2Com Egypt",
+    "base": "https://v2comeg.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "myxprs",
+    "name": "XPRS",
+    "base": "https://myxprs.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "pctech_eg",
+    "name": "PC Tech Store",
+    "base": "https://pctech-eg.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "venomtecheg",
+    "name": "Venom Technology",
+    "base": "https://venomtecheg.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "squaretec",
+    "name": "Square Tech",
+    "base": "https://squaretec.store",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "elmasrypc",
+    "name": "El Masry PC",
+    "base": "https://elmasrypc.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "lordlaptop",
+    "name": "Lord Laptops",
+    "base": "https://lordlaptop.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "awfarlak",
+    "name": "Awfarlak",
+    "base": "https://awfarlak.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "laptopmasr",
+    "name": "Laptop Masr",
+    "base": "https://laptopmasr.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "alsahaba",
+    "name": "Al Sahaba Laptop",
+    "base": "https://alsahaba.com.eg",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "targetstoreg",
+    "name": "Target Store",
+    "base": "https://targetstoreg.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "digital",
+    "name": "Digital",
+    "base": "https://digital.com.eg",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "dar_elcomputer",
+    "name": "Dar El Computer",
+    "base": "https://dar-elcomputer.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "elhamd",
+    "name": "Elhamd Computer Supplies",
+    "base": "https://elhamd.net",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "hankerz",
+    "name": "Hankerz",
+    "base": "https://hankerz.com.eg",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "compunilestore",
+    "name": "Compu Nile Store",
+    "base": "https://compunilestore.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "imapstores",
+    "name": "iMap Stores",
+    "base": "https://imapstores.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "static_eg",
+    "name": "Static",
+    "base": "https://static-eg.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "moreshopping",
+    "name": "More Shopping",
+    "base": "https://moreshopping.com",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "techno1",
+    "name": "Techno1",
+    "base": "https://techno1.net",
+    "adapter": "shopify",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "wifitotallynetworking",
+    "name": "WiFi Totally Networking",
+    "base": "https://wifitotallynetworking.com",
+    "adapter": "woo",
+    "interval_hours": 24,
+    "harvest_scope": "catalog"
+  },
+  {
+    "id": "maximumhardware",
+    "name": "Maximum Hardware",
+    "base": "https://maximumhardware.store",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "sitemap": "/sitemap.xml",
+    "sitemap_include": "sitemap-product-",
+    "max_details": 100
+  },
+  {
+    "id": "elnour",
+    "name": "Elnour Tech",
+    "base": "https://elnour-tech.com",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "sitemap": "/sitemap.xml",
+    "sitemap_include": "/product-sitemap",
+    "max_details": 100
+  },
+  {
+    "id": "elhamdstore",
+    "name": "Elhamd Store",
+    "base": "https://elhamdstore.com",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "sitemap": "/sitemap.xml",
+    "sitemap_include": "/product-sitemap",
+    "max_details": 100
+  },
+  {
+    "id": "elnekhely",
+    "name": "Elnekhely Technology",
+    "base": "https://www.elnekhelytechnology.com",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "sitemap": "/sitemap.xml",
+    "sitemap_include": "sitemap-product",
+    "max_details": 100
+  },
+  {
+    "id": "etisalstore",
+    "name": "Etisal Store",
+    "base": "https://etisalstore.com",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "sitemap": "/sitemap.xml",
+    "product_url_regex": "/en/(?!terms|privacy|cookie)[^/]+$",
+    "max_details": 100
+  },
+  {
+    "id": "albetar",
+    "name": "Albetar Store",
+    "base": "https://albetarstore.com",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "sitemap": "/sitemap.xml",
+    "product_url_regex": "/en/products/",
+    "max_details": 100
+  },
+  {
+    "id": "turbo",
+    "name": "Turbo Computer",
+    "base": "https://turbo-computer.com",
+    "adapter": "sitemap",
+    "interval_hours": 24,
+    "harvest_scope": "catalog",
+    "sitemap": "/sitemap.xml",
+    "product_url_regex": "^https://turbo-computer\\.com/[^/?]+/?$",
+    "max_details": 100
+  }
+]

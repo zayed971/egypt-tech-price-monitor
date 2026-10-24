@@ -1,0 +1,59 @@
+store_id,name,country,domain,kind,status,block_reason,payments,installment_providers,condition,ships_to_uae,ships_to_uae_quote,model,pruned_count,evidence_file
+ae-noon-com-uae-renewed,Noon.com UAE (Renewed),AE,noon.com,marketplace,blocked,robots.txt disallows or unreachable,,,,,,,,
+ae-dubizzle-uae,Dubizzle UAE,AE,uae.dubizzle.com,classifieds,blocked,home: thin page (JS wall or empty),,,,,,,,
+ae-opensooq-uae,OpenSooq UAE,AE,ae.opensooq.com,classifieds,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/ae-opensooq-uae.txt
+sa-opensooq-saudi-arabia,OpenSooq Saudi Arabia,SA,sa.opensooq.com,classifieds,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/sa-opensooq-saudi-arabia.txt
+sa-haraj-saudi-arabia,Haraj (Saudi Arabia),SA,haraj.com.sa,classifieds,verified,,"mada [""بطاقة مدى""] | bank transfer [""تحويل البنكي""]",,,unknown,,deepseek-flash,0,data/store_evidence/sa-haraj-saudi-arabia.txt
+ae-amazon-ae-renewed,Amazon.ae Renewed,AE,amazon.ae,marketplace,verified,,,,,yes,Delivering to Dubai Update location,deepseek-flash,0,data/store_evidence/ae-amazon-ae-renewed.txt
+ae-sharaf-dg-uae-tech-thrifts-open-units,Sharaf DG UAE (Tech Thrifts / Open Units),AE,uae.sharafdg.com,refurb-store,verified,,,,,yes,Delivery and professional installation within 24 hours across the UAE.,deepseek-flash,0,data/store_evidence/ae-sharaf-dg-uae-tech-thrifts-open-units.txt
+ae-ubuy-uae,Ubuy UAE,AE,ubuy.ae,marketplace,blocked,home: http 403 http 403,,,,,,,,
+ae-uaepc-computers-wholesale-refurbished,UAEPC Computers (Wholesale Refurbished),AE,uaepc.com,b2b,verified,,"cash [""flexible payment in cash, bank transfer, or USDT cryptocurrency""] | bank transfer [""flexible payment in cash, bank transfer, or USDT cryptocurrency""] | other:USDT cryptocurrency [""flexible payment in cash, bank transfer, or USDT cryptocurrency""]",,"refurbished [""Wholesale Refurbished Computers in the UAE""] | used [""ConditionPulled out""]",yes,Pick delivery to your warehouse door or shipping by UAEPC,deepseek-flash,0,data/store_evidence/ae-uaepc-computers-wholesale-refurbished.txt
+us-newegg-incl-newegg-global-uae-storefront,Newegg (incl. Newegg Global UAE storefront),US,newegg.com,marketplace,verified,,"other:BitPay [""For refunds on products purchased through BitPay, Newegg can process your refund directly ""] | other:Newegg gift card [""If a Newegg gift card was used on an order that was issued a refund, the refund will go ba""]",,"new [""New and unopened returns will not be subject to a restocking fee.""] | refurbished [""ABS Refurbished Desktops""] | used [""Open box items""]",unknown,,deepseek-flash,0,data/store_evidence/us-newegg-incl-newegg-global-uae-storefront.txt
+us-b-h-photo-video,B&H Photo Video,US,bhphotovideo.com,refurb-store,blocked,home: http 403 http 403,,,,,,,,
+us-adorama,Adorama,US,adorama.com,refurb-store,blocked,home: http 403 http 403,,,,,,,,
+us-swappa-via-official-stackry-forwarder-partnership,Swappa (via official Stackry forwarder partnership),US,swappa.com,marketplace,blocked,robots.txt disallows or unreachable,,,,,,,,
+us-pcliquidations,PCLiquidations,US,pcliquidations.com,refurb-store,verified,,,,"refurbished [""Refurbished Grade A 1 Year Warranty""]",unknown,,deepseek-flash,0,data/store_evidence/us-pcliquidations.txt
+us-wisetek-market-us-store,Wisetek Market (US store),US,wisetekmarket.com,refurb-store,verified,,,,"refurbished [""buy refurbished electronics""]",unknown,,deepseek-flash,0,data/store_evidence/us-wisetek-market-us-store.txt
+us-techmikeny,TechMikeNY,US,techmikeny.com,refurb-store,verified,,,,"refurbished [""Refurbished enterprise-grade data management server solutions for high""] | refurbished [""Start building a refurbished server for your surveillance needs.""] | new [""It really is a first-class refurb. Looks and performs like it is brand""] | used [""TechMikeNY used servers are better than most new one's.""]",unknown,,deepseek-flash,0,data/store_evidence/us-techmikeny.txt
+us-shopgoodwill-com,ShopGoodwill.com,US,shopgoodwill.com,auction,verified,,,,"used [""list and auction unique items on the site, including art, antiques, co""]",unknown,,deepseek-flash,0,data/store_evidence/us-shopgoodwill-com.txt
+us-direct-liquidation-liquidity-services,Direct Liquidation (Liquidity Services),US,directliquidation.com,b2b,blocked,home: thin page (JS wall or empty),,,,,,,,
+us-laptopoutlet-com,LaptopOutlet.com,US,laptopoutlet.com,refurb-store,verified,,,,"used [""cheap used laptops and refurbished notebooks for sale""] | refurbished [""Cheap Compaq Laptops >Refurbished Dell Laptops >Used IBM Laptops""]",unknown,,deepseek-flash,0,data/store_evidence/us-laptopoutlet-com.txt
+us-amazon-us,Amazon US,US,amazon.com,marketplace,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/us-amazon-us.txt
+us-ebay,eBay,US,ebay.com,marketplace,blocked,home: http 403 http 403,,,,,,,,
+ae-microless,Microless,AE,microless.com,shop,blocked,robots.txt disallows or unreachable,,,,,,,,
+ae-jumbo-electronics,Jumbo Electronics,AE,jumbo.ae,shop,verified,,"Visa/Mastercard [""Applicable on credit cards.""] | installments [""Now convert your purchases with Easy Pay 12, 18 or 24 month installments instantly""] | bank transfer [""EasyPay Flexible Instalment Plans""]",Tamara,"new [""New to Jumbo Offer""]",yes,We deliver and provide installation services across the United Arab Emirates except for certain areas which are ODA (Outside Delivery Area),deepseek-flash,0,data/store_evidence/ae-jumbo-electronics.txt
+sa-amazon-sa,Amazon.sa,SA,amazon.sa,marketplace,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/sa-amazon-sa.txt
+sa-noon-saudi,Noon Saudi,SA,noon.com/saudi-en,marketplace,blocked,robots.txt disallows or unreachable,,,,,,,,
+sa-extra,eXtra,SA,extra.com,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/sa-extra.txt
+sa-jarir,Jarir,SA,jarir.com,shop,verified,,"installments [""التقسيط خيارات دفع مرنة""] | installments [""خيارات دفع مرنة""]",,"refurbished [""المنتجات المجددة""]",yes,الإمارات العربية المتّحدة | د.إ.,deepseek-flash,0,data/store_evidence/sa-jarir.txt
+us-micro-center,Micro Center,US,microcenter.com,shop,blocked,robots.txt disallows or unreachable,,,,,,,,
+us-best-buy,Best Buy,US,bestbuy.com,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,13,data/store_evidence/us-best-buy.txt
+us-back-market,Back Market,US,backmarket.com,refurb,verified,,,,"refurbished [""Back Market: Refurbished tech that's better for the planet""]",unknown,,deepseek-flash,0,data/store_evidence/us-back-market.txt
+us-reddit-r-hardwareswap,Reddit r/hardwareswap,US,reddit.com/r/hardwareswap,used-p2p,blocked,login-walled social site: not read in this job,,,,,,,,
+us-facebook-marketplace-us-burner,Facebook Marketplace US (burner),US,facebook.com/marketplace,classifieds,blocked,login-walled social site: not read in this job,,,,,,,,
+ae-facebook-marketplace-uae-burner,Facebook Marketplace UAE (burner),AE,facebook.com/marketplace,classifieds,blocked,login-walled social site: not read in this job,,,,,,,,
+sa-facebook-marketplace-ksa-burner,Facebook Marketplace KSA (burner),SA,facebook.com/marketplace,classifieds,blocked,login-walled social site: not read in this job,,,,,,,,
+eg-facebook-marketplace-egypt-burner,Facebook Marketplace Egypt (burner),EG,facebook.com/marketplace,classifieds,blocked,login-walled social site: not read in this job,,,,,,,,
+eg-qarenly,Qarenly,EG,qarenly.com,aggregator,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-qarenly.txt
+eg-egprices,EGPrices,EG,www.egprices.com,aggregator,blocked,robots.txt disallows or unreachable,,,,,,,,
+eg-pricena,Pricena,EG,eg.pricena.com,aggregator,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-pricena.txt
+eg-compumarts,Compumarts,EG,www.compumarts.com,shop,verified,,,,"new [""NEW ARRIVALS""] | used [""Used Laptops""]",unknown,,deepseek-flash,0,data/store_evidence/eg-compumarts.txt
+eg-kimo,Kimo Store,EG,kimostore.net,shop,verified,,,,"new [""Hot Deals New Arrival View All Products""] | used [""USED Used Computers USED TOWER PC USED DESKTOP PC USED WORKSTATION PC ""]",unknown,,deepseek-flash,0,data/store_evidence/eg-kimo.txt
+eg-ahw,AHW Store,EG,ahw.store,shop,verified,,"other:All major payment methods [""Enjoy All major payment methods available, with the best installment plans to suit your ne""]",,"new [""New Arrival""] | refurbished [""Open Box Products""]",unknown,,deepseek-flash,0,data/store_evidence/eg-ahw.txt
+eg-ennap,Ennap,EG,ennap.com,shop,verified,,,,"new [""New Arrival""]",unknown,,deepseek-flash,0,data/store_evidence/eg-ennap.txt
+eg-elyamama,Elyamama,EG,elyamamastore.com,shop,blocked,robots.txt disallows or unreachable,,,,,,,,
+eg-alarabiya,Alarabiya Computer,EG,alarabiya-computer.com,shop,verified,,,,"new [""providing New original computer parts""]",unknown,,deepseek-flash,0,data/store_evidence/eg-alarabiya.txt
+eg-alfrensia,Alfrensia,EG,alfrensia.com,shop,verified,,,,"new [""NEW ARRIVAL""] | used [""OPEN BOX""] | refurbished [""Razer Blackshark V2 X Gaming Headset (Open Box)""]",unknown,,deepseek-flash,0,data/store_evidence/eg-alfrensia.txt
+eg-softlink,Softlink,EG,softlink-eg.com,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-softlink.txt
+eg-elbadr,El Badr,EG,elbadrgroupeg.store,shop,blocked,robots.txt disallows or unreachable,,,,,,,,
+eg-sigma,Sigma Computer,EG,sigma-computer.com,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-sigma.txt
+eg-egyptlaptop,Egypt Laptop,EG,egyptlaptop.com,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-egyptlaptop.txt
+eg-tv-it,Technology Valley,EG,tv-it.com,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-tv-it.txt
+eg-dubizzle,Dubizzle,EG,www.dubizzle.com.eg,used,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-dubizzle.txt
+eg-2b,2B,EG,2b.com.eg,shop,verified,,"cash on delivery [""الدفع عند الاستلام""]",valu,"new [""المنتج متوفر في""]",unknown,,deepseek-flash,0,data/store_evidence/eg-2b.txt
+eg-raya,Raya Shop,EG,www.rayashop.com,shop,verified,,"Visa/Mastercard [""ادفع اقساطك باستخدام بطاقات فيزا أو بطاقات ماستركارد""] | installments [""عروض تقسيطي""]",,"new [""لا يوجد عروض متوفرة""]",unknown,,deepseek-flash,0,data/store_evidence/eg-raya.txt
+eg-btech,B.TECH,EG,btech.com,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-btech.txt
+eg-jumia,Jumia Egypt,EG,www.jumia.com.eg,shop,verified,,"cash on delivery [""Pay for Your Order""] | installments [""HOW TO PAY IN INSTALLMENTS WITH JUMIA?""]",,"new [""Newest Arrivals""]",unknown,,deepseek-flash,0,data/store_evidence/eg-jumia.txt
+eg-amazon-eg,Amazon Egypt,EG,www.amazon.eg,shop,"read, nothing stated",,,,,unknown,,deepseek-flash,0,data/store_evidence/eg-amazon-eg.txt
+eg-noon,Noon Egypt,EG,www.noon.com,shop,blocked,robots.txt disallows or unreachable,,,,,,,,
+eg-facebook-public,Facebook Marketplace (public Egypt probe),EG,www.facebook.com,used,blocked,login-walled social site: not read in this job,,,,,,,,

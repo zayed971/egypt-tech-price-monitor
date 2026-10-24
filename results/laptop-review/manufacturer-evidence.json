@@ -1,0 +1,68 @@
+{
+ "checked_at": "2026-10-05",
+ "sources": [
+  {
+   "model": "Lenovo LOQ 15IRX10 / RTX 5060",
+   "url": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15IRX10/LOQ_15IRX10_Spec.PDF",
+   "scope": "platform features; factory memory layout is SKU specific",
+   "gpu_tgp_w": 100,
+   "ram_slots": 2,
+   "ram_official_max_gb": 32,
+   "cpu_14700hx": {
+    "cores": 20,
+    "threads": 28,
+    "max_boost_ghz": 5.5
+   }
+  },
+  {
+   "model": "MSI Cyborg 15 Max C13WF",
+   "url": "https://www.msi.com/Laptop/Cyborg-15-MAX-C13WX/Specification",
+   "scope": "platform; Egypt model C13WF-020EG identified by retailer",
+   "gpu_max_power_w": 100,
+   "display_srgb_pct": 100,
+   "ram_slots": 2,
+   "ram_max_gb": 96,
+   "memory_generation_variants": [
+    "DDR4",
+    "DDR5"
+   ],
+   "note": "Egypt retailer identifies DDR5; confirm exact SKU. This Max platform differs from the older 45W Cyborg."
+  },
+  {
+   "model": "Acer Nitro V ANV15-52-9703 NH.QZAEM.004",
+   "url": "https://www.acer.com/ae-en/laptops/nitro/nitro-v-15/pdp/NH.QZAEM.004",
+   "gpu_max_power_w": 75,
+   "ram_max_gb": 32,
+   "note": "Manufacturer page labels memory DDR4 with 5.60 GT/s; memory-generation field is inconsistent, so confirm installed type."
+  },
+  {
+   "model": "Gigabyte Gaming A16 GA6H",
+   "url": "https://www.gigabyte.com/us/Laptop/GIGABYTE-GAMING-A16-GA6H/sp",
+   "ram_slots": 2,
+   "ram_max_gb": 64,
+   "note": "165Hz WUXGA and WQXGA panel variants. The published 100% sRGB figure is attached to WQXGA; do not assume the Egyptian WUXGA SKU has it."
+  },
+  {
+   "model": "MSI Cyborg 15 A13VE",
+   "url": "https://us.msi.com/Laptop/Cyborg-15-A13VX/Specification",
+   "gpu_max_power_w": 45,
+   "note": "Platform evidence; exact Egypt SKU should be confirmed. Different product from Cyborg 15 Max."
+  },
+  {
+   "model": "Lenovo LOQ 15ARP9, listed SKU 83JC00H1ED",
+   "url": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15ARP9/LOQ_15ARP9_Spec.PDF",
+   "ram_slots": 2,
+   "ram_max_gb": 32,
+   "cpu_7435hs_cores": 8,
+   "cpu_7435hs_threads": 16,
+   "gpu_power_note": "RTX4060: 105W with 170W adapter, up to 115W with 230W adapter. Retailer lists 105W. Installed factory memory layout unverified."
+  },
+  {
+   "model": "Lenovo LOQ 15IAX9E Essential, 83LK00C9US",
+   "url": "https://sigma-computer.com/en/item?id=lenovo-loq-15iax9e-essential-83lk00c9us-intel-core-i5-12450hx-nvidia-geforce-rtx-4050-6gb-8gb-ddr5-4800-512gb-ssd-m2-156-fhd-ips-300nits-anti-glare-100-srgb-144hz-windows-11-bmyhes9uzs0k",
+   "evidence_kind": "retailer primary specification table",
+   "ram_slots": 1,
+   "note": "Do not assume a two-module kit fits this Essential model."
+  }
+ ]
+}

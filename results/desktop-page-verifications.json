@@ -1,0 +1,207 @@
+{
+ "checked_at": "2026-10-06T00:08:05.937502+00:00",
+ "products": [
+  {
+   "store": "Compumarts",
+   "url": "https://www.compumarts.com/products/hiksemi-hiker-udimm-ddr4-16gb-3200mhz-egypt?variant=67601327423637",
+   "collected_price_egp": 5500.0,
+   "collected_title": "Hiksemi HIKER UDIMM DDR4 16GB 3200MHz RAM",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:06:38.913979+00:00",
+   "page_h1": "Hiksemi HIKER UDIMM DDR4 16GB 3200MHz RAM",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "Hiksemi HIKER UDIMM DDR4 16GB 3200MHz RAM",
+     "price_egp": 5500.0,
+     "stock": "in_stock",
+     "sku": "HSC416U32Z1",
+     "specs": {
+      "ram_gb": 16,
+      "ram_type": "DDR4",
+      "ram_speed_mt_s": 3200,
+      "ram_form_factor": "DIMM"
+     },
+     "description": "The Hiksemi HIKER UDIMM DDR4 16GB RAM is available in Egypt at Compumarts with 3200MHz frequency.\nKey specs\n\n\nCAPACITY\n16GB\n\n\nSPEED\n3200MHz\n\n\nTYPE\nUdimm\n\n\nINTERFACE\nDDR4\n\n\nPIN\n288pin\n\n\nMODEL\nHS-Udimm-HIKER\n\n\nWARRANTY\nLifetime warranty\n\n\nWEIGHT\n15g"
+    }
+   ]
+  },
+  {
+   "store": "Elyamama",
+   "url": "https://elyamamastore.com/products/crucial-e100-1tb-nvme-gen4-ssd?variant=51265545765095",
+   "collected_price_egp": 7000.0,
+   "collected_title": "Crucial E100 Gen4 NVMe SSD high-performance PCIe 4.0 storage (480GB & 1TB) — 1TB",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:06:39.289344+00:00",
+   "page_h1": "Crucial E100 Gen4 NVMe SSD high-performance PCIe 4.0 storage (480GB & 1TB)",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "Crucial E100 Gen4 NVMe SSD high-performance PCIe 4.0 storage (480GB & 1TB) - 480GB",
+     "price_egp": 4400.0,
+     "stock": "out_of_stock",
+     "sku": "16578",
+     "specs": {},
+     "description": ""
+    },
+    {
+     "title": "Crucial E100 Gen4 NVMe SSD high-performance PCIe 4.0 storage (480GB & 1TB) - 1TB",
+     "price_egp": 7000.0,
+     "stock": "in_stock",
+     "sku": "16227",
+     "specs": {},
+     "description": ""
+    }
+   ]
+  },
+  {
+   "store": "Kimo Store",
+   "url": "https://kimostore.net/products/crucial-e100-1tb-nvme-pcie-m-2-ssd?variant=46526974591232",
+   "collected_price_egp": 7300.0,
+   "collected_title": "Crucial E100 1TB NVMe PCIe M.2 SSD",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:06:38.812216+00:00",
+   "page_h1": "Crucial E100 1TB NVMe PCIe M.2 SSD",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "Crucial E100 1TB NVMe PCIe M.2 SSD",
+     "price_egp": 7300.0,
+     "stock": "in_stock",
+     "sku": "151214",
+     "specs": {
+      "storage_gb": 1000
+     },
+     "description": "Brand: Crucial\n\nSeries: E100  \n\nType: M.2\n\nCapacity: 1TB \n\nInterface: NVMe, PCIe Gen4 x4\n\nSequential Read Speed: Up To 5000 MB/s\n\nSequential Write Speed: Up To 4,500 MB/s\n\nCompatible With: PC & Laptop\n\n\nWarranty: 3 Years With Warranty Of The Authorized Agent"
+    }
+   ]
+  },
+  {
+   "store": "Egypt Laptop",
+   "url": "https://egyptlaptop.com/computers/computer-components/video-card-and-video-devices/evga-12g-p5-3657-kr-geforce-rtx-3060-xc-gaming-12gb-gddr6-dual-fan-metal-backplate-graphic-card",
+   "collected_price_egp": 12400.0,
+   "collected_title": "EVGA GeForce RTX 3060 XC 12GB GDDR6 Graphics Card",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:06:39.540553+00:00",
+   "page_h1": "EVGA GeForce RTX 3060 XC 12GB GDDR6 Graphics Card",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "EVGA GeForce RTX 3060 XC 12GB GDDR6 Graphics Card",
+     "price_egp": 12400.0,
+     "stock": "in_stock",
+     "sku": null,
+     "specs": {
+      "gpu_model": "RTX 3060"
+     },
+     "description": ""
+    }
+   ]
+  },
+  {
+   "store": "Softlink",
+   "url": "https://softlink-eg.com/product/lexar-ares-rgb-ddr4-desktop-memory-32gb-2x16gb-3600/",
+   "collected_price_egp": 14000.0,
+   "collected_title": "Lexar® ARES RGB DDR4 Desktop Memory 32GB (2x16GB) 3600",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:06:45.233058+00:00",
+   "page_h1": "Lexar® ARES RGB DDR4 Desktop Memory",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "Lexar® ARES RGB DDR4 Desktop Memory 32GB (2x16GB) 3600",
+     "price_egp": 14000.0,
+     "stock": "in_stock",
+     "sku": "24072",
+     "specs": {
+      "ram_gb": 32,
+      "ram_type": "DDR4",
+      "ram_modules": 2,
+      "ram_module_gb": 16,
+      "ram_form_factor": "DIMM"
+     },
+     "description": "Lexar® ARES RGB DDR4 Desktop Memory\r\n\r\n\r\n \t\r\n\r\nBlazing-fast performance for your gaming\r\nLexar® ARES RGB DDR4 Desktop Memory elevates your PC with vibrant RGB lighting and next-level DDR4 performance for an elevated gaming experience. It features an aluminum heat spreader and an aggressive wing design for optimal heat dissipation keeping your motherboard and system cool even when overclocked.\r\n\r\n\r\n \t\r\n\r\nEnhance your gaming setup with full range RGB support\r\nThe Lexar® ARES RGB DDR4 Desktop Memory enhances your gameplay with vibrant RGB colors and customizable lighting effects. And with full range RGB support, you can create a dynamic atmosphere rendering your gameplay more realistic, and adding a touch of style to your gaming journey."
+    }
+   ]
+  },
+  {
+   "store": "Softlink",
+   "url": "https://softlink-eg.com/product/bundel-b760-m-k-d4-i5-14400f/",
+   "collected_price_egp": 44200.0,
+   "collected_title": "BUNDEL (B760 M-K D4 + I5 14400F)",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:08:05.460975+00:00",
+   "page_h1": "BUNDEL (B760 M-K D4 + I5 14400F)",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "BUNDEL (B760 M-K D4 + I5 14400F)",
+     "price_egp": 44200.0,
+     "stock": "in_stock",
+     "sku": "40285",
+     "specs": {
+      "cpu_model": "I5-14400F",
+      "gpu_model": "RTX 5060",
+      "ram_type": "DDR4"
+     },
+     "description": "BUNDEL (B760 M-K D4 + I5 14400F)\r\nCPU INTEL I5 14400F\r\n\r\nM.B ASUS PRIME B760 M-K D4\r\n\r\nRAM OCPC XT II DDR4 3200 16GB C22\r\n\r\nGPU Palit GEFORCE RTX™ 5060 DUAL\r\n\r\nSSD NVME HIKSEMI WAVE 256GB\r\n\r\nCASE XIGMATEK SKY+PSU 600W"
+    }
+   ]
+  },
+  {
+   "store": "Elyamama",
+   "url": "https://elyamamastore.com/products/rtx-5060-gaming-pc-build-ryzen-5-5600-rtx-5060-16gb-ddr4?variant=52684380831975",
+   "collected_price_egp": 45700.0,
+   "collected_title": "RTX 5060 Gaming Pc Build | Ryzen 5 5600 | RTX 5060 | 16GB DDR4",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:06:43.822767+00:00",
+   "page_h1": "RTX 5060 Gaming Pc Build | Ryzen 5 5600 | RTX 5060 | 16GB DDR4",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "RTX 5060 Gaming Pc Build | Ryzen 5 5600 | RTX 5060 | 16GB DDR4",
+     "price_egp": 45700.0,
+     "stock": "in_stock",
+     "sku": null,
+     "specs": {
+      "cpu_model": "Ryzen 5 5600",
+      "gpu_model": "RTX 5060",
+      "gpu_vram_gb": 8,
+      "ram_gb": 16,
+      "ram_type": "DDR4",
+      "os": "Windows 11",
+      "windows_license_included": true
+     },
+     "description": "Experience next-generation gaming performance tailored for Egyptian gamers with this fully configured RTX 5060 build. Powered by the efficient AMD Ryzen 5 5600 processor and the ASUS Dual GeForce RTX 5060 8GB GDDR7 OC Edition, it delivers smooth frame rates in modern titles at 1080p while supporting advanced features such as DLSS 4 and ray tracing. The system is completed by dual-channel 16GB Kingston DDR4 memory, a fast 256GB NVMe SSD, the ASUS PRIME B550M-A WIFI II motherboard, and an Antec ARGB case with integrated 650W power supply for a balanced, ready-to-play setup.\n\n\nKey Features\n\n\nAMD Ryzen 5 5600 (6 cores / 12 threads, up to 4.4 GHz) - Delivers strong multi-threaded performance for gaming, streaming, and light productivity with excellent efficiency.\n\nASUS Dual GeForce RTX 5060 8GB GDDR7 OC Edition - Provides elevated 1080p frame rates with DLSS 4, Frame Generation, and efficient dual-fan cooling for sustained sessions.\n\nKingston 16GB (2×8GB) DDR4 3200 MHz + 256GB NVMe storage - Enables smooth dual-channel multitasking, faster game loading, and responsive system performance.\n\nAntec AX65 case with 4× 120 mm ARGB fans + Atom V650 PSU - Offers excellent airflow, vibrant lighting, and stable power delivery for quiet, reliable long-term operation.\n\n\n\nKEY SPECIFICATIONS\n\n\n\n\nComponent\nSpecification\n\n\n\n\nCPU\nAMD Ryzen 5 5600 (6 Cores / 12 Threads, 3.5 GHz base / up to 4.4 GHz boost, 65 W)\n\n\nGPU\nASUS Dual GeForce RTX 5060 8GB GDDR7 OC Edition (Blackwell, DLSS 4)\n\n\nRAM\nKingston 16GB (2×8GB) DDR4 3200 MHz CL22\n\n\nStorage\nHIKSEMI Wave 256GB NVMe M.2 SSD\n\n\nMotherboard\nASUS PRIME B550M-A WIFI II (B550 chipset, Wi-Fi, mATX)\n\n\nPSU\nAntec Atom V650 (650 W)\n\n\nCooling\nStock CPU cooler + Case fans\n\n\nCase\nAntec AX65 (4× 120 mm ARGB fans)\n\n\n\n\n* Components may vary slightly depending on availability and region.\n\n\nPerformance Excellence\nThis configuration is optimized for high-frame-rate 1080p gaming in competitive and modern titles, leveraging the RTX 5060’s architecture and DLSS 4 for elevated performance and visual fidelity. The Ryzen 5 5600 pairs efficiently with the GPU and dual-channel 16GB DDR4 memory to minimize bottlenecks in the majority of contemporary games, while the NVMe storage accelerates load times. Realistic expectations place it as a strong mid-range option for smooth gameplay at Full HD resolutions with headroom for esports and many AAA titles at high settings.\n\n\nUser Experience & Comfort\nThe system prioritizes quiet and efficient operation through the Antec case’s multi-fan ARGB cooling design and the low-TDP Ryzen 5 5600. Dual-channel memory ensures smoother multitasking, while the B550 platform leaves clear upgrade paths for additional storage or higher-capacity RAM. Reliable power delivery from the 650 W unit supports stable performance, and the compact mATX layout simplifies future maintenance. Overall, it offers a dependable, ready-to-use platform suited to everyday gaming and light multitasking.\n\n\nDesign & Build Quality\nThe Antec AX65 chassis features a modern aesthetic with four pre-installed 120 mm ARGB fans that deliver strong airflow while showcasing customizable lighting. Durable construction and an efficient internal layout promote thermal management and component longevity. The ASUS Dual GPU cooler maintains low temperatures under load, contributing to a polished, gamer-oriented appearance without excessive noise.\n\n\nConnectivity & Compatibility\n\nIntegrated Wi-Fi on the ASUS PRIME B550M-A WIFI II motherboard for convenient wireless networking.\nPCIe 4.0 support, multiple USB ports, and HDMI/DisplayPort outputs on the RTX 5060 for multi-monitor setups.\nAM4 platform with expansion slots for additional storage and memory upgrades (supports higher dual-channel DDR4 configurations).\n\n\n\nPerfect For\n\n1080p high-refresh-rate gaming and esports titles.\nCasual AAA gaming with DLSS support and light content creation or streaming.\nValue-oriented next-generation entry builds for the Egyptian market.\n\n\n\nWhy Choose This Build/Bundle\nThis RTX 5060 gaming PC build delivers a carefully balanced combination of proven AMD Zen 3 efficiency and NVIDIA’s latest mid-range graphics capabilities at a competitive price point for Egypt. Dual-channel 16GB DDR4 memory improves responsiveness over single-stick configurations, while the mature B550 platform provides clear upgrade flexibility. Reliable Antec power and cooling ensure long-term stability, making it an intelligent choice for gamers seeking strong price-to-performance without unnecessary excess.\n\n\nFrequently Asked Questions\n\n\nQ: Can I upgrade the RAM or storage later?\nA: Yes. The B550 motherboard supports dual-channel DDR4 configurations up to higher capacities and additional M.2 or SATA storage devices.\n\nQ: Is this suitable for 1440p gaming?\nA: The RTX 5060 with DLSS 4 delivers playable 1440p performance in many titles; however, the primary strength of this build remains optimized 1080p high-frame-rate gaming.\n\nQ: What warranty and compatibility can I expect?\nA: All components carry manufacturer warranties. The system is fully compatible with Windows 11 and standard gaming peripherals; local Egyptian support channels apply depending on the seller."
+    }
+   ]
+  },
+  {
+   "store": "Compumarts",
+   "url": "https://www.compumarts.com/products/ryzen-5-7600x-rtx-5060-ti-16gb-gaming-pc-bundle-egypt?variant=67601409343637",
+   "collected_price_egp": 66666.0,
+   "collected_title": "RYZEN 5 7600X TRAY + ASUS TUF GAMING B650M-PLUS WIFI + RTX 5060 Ti 16GB DUAL + 16GB DDR5 6000MHz + 500GB NVMe SSD + XANDER VELOX FLOW 750W BRONZE + GAMDIAS BOREAS M1-620 ARGB",
+   "status": "checked",
+   "observed_at": "2026-10-06T00:06:43.408971+00:00",
+   "page_h1": "RYZEN 5 7600X TRAY + ASUS TUF GAMING B650M-PLUS WIFI + RTX 5060 Ti 16GB DUAL + 16GB DDR5 6000MHz + 500GB NVMe SSD + XANDER VELOX FLOW 750W BRONZE + GAMDIAS BOREAS M1-620 ARGB",
+   "visible_price_blocks": [],
+   "primary_offers": [
+    {
+     "title": "RYZEN 5 7600X TRAY + ASUS TUF GAMING B650M-PLUS WIFI + RTX 5060 Ti 16GB DUAL + 16GB DDR5 6000MHz + 500GB NVMe SSD + XANDER VELOX FLOW 750W BRONZE + GAMDIAS BOREAS M1-620 ARGB",
+     "price_egp": 66666.0,
+     "stock": "in_stock",
+     "sku": null,
+     "specs": {
+      "cpu_model": "Ryzen 5 7600X",
+      "gpu_model": "RTX 5060 TI",
+      "gpu_vram_gb": 16,
+      "ram_gb": 16,
+      "ram_type": "DDR5",
+      "storage_gb": 500
+     },
+     "description": "RYZEN GAMING BUNDLE\n    \n\n    \n      RYZEN 5 7600X GAMING BUNDLE\n    \n\n    \n      Ryzen 5 7600X + TUF GAMING B650M-PLUS WIFI + RTX 5060 Ti 16GB + 16GB DDR5 + 500GB NVMe\n    \n\n    \n      تجميعة تجمع بين معالج AMD Ryzen 5 7600X TRAY،\n      ولوحة TUF GAMING B650M-PLUS WIFI، وكارت RTX 5060 Ti 16GB DUAL،\n      وذاكرة RAM بسعة 16GB وتردد 6000MHz، ووحدة تخزين NVMe بسعة 500GB،\n      مع كيسة XANDER VELOX FLOW 750W BRONZE ومبرد GAMDIAS BOREAS M1-620 ARGB.\n    \n  \n\n  \n  \n    \n      سعر الباقة\n    \n\n    \n      66,666 جنيه\n    \n  \n\n  \n  \n    \n\n      \n        PROCESSOR\n        AMD Ryzen 5 7600X\n      \n\n      \n        GRAPHICS\n        RTX 5060 Ti 16GB DUAL\n      \n\n      \n        MEMORY\n        16GB DDR5 6000MHz\n      \n\n      \n        STORAGE\n        500GB NVMe SSD\n      \n\n      \n        PLATFORM\n        AMD AM5\n      \n\n    \n  \n\n  \n  \n    \n      مكونات الباقة\n    \n\n    \n\n      \n      \n        PROCESSOR\n        AMD Ryzen 5 7600X TRAY\n        \n          معالج AMD Ryzen 5 7600X بإصدار TRAY.\n        \n      \n\n      \n      \n        MOTHERBOARD\n        TUF GAMING B650M-PLUS WIFI\n        \n          لوحة أم ASUS TUF GAMING B650M-PLUS WIFI ضمن منصة AMD AM5.\n        \n      \n\n      \n      \n        GRAPHICS CARD\n        RTX 5060 Ti 16GB DUAL\n        \n          كارت شاشة RTX 5060 Ti بذاكرة 16GB وإصدار DUAL.\n        \n      \n\n      \n      \n        MEMORY\n        16GB DDR5 6000MHz\n        \n          ذاكرة RAM بسعة 16GB وتردد 6000MHz.\n        \n      \n\n      \n      \n        STORAGE\n        500GB NVMe SSD\n        \n          وحدة تخزين NVMe SSD بسعة 500GB.\n        \n      \n\n      \n      \n        PC CASE\n        XANDER VELOX FLOW 750W BRONZE\n        \n          كيسة XANDER VELOX FLOW مع مزود طاقة بقدرة 750W\n          وتصنيف 80 PLUS Bronze.\n        \n      \n\n      \n      \n        CPU COOLER\n        GAMDIAS BOREAS M1-620 ARGB\n        \n          مبرد هوائي للمعالج GAMDIAS BOREAS M1-620 ARGB.\n        \n      \n\n    \n  \n\n  \n  \n\n    \n      COMPLETE AM5 GAMING SETUP\n    \n\n    \n      Ryzen 5 7600X Gaming Bundle\n    \n\n    \n      تجمع الباقة بين AMD Ryzen 5 7600X،\n      ولوحة TUF GAMING B650M-PLUS WIFI،\n      وRTX 5060 Ti 16GB DUAL،\n      و16GB DDR5 6000MHz،\n      و500GB NVMe SSD،\n      مع كيسة XANDER VELOX FLOW 750W BRONZE\n      ومبرد GAMDIAS BOREAS M1-620 ARGB.\n    \n  \n\n  \n  \n    \n      ملخص الباقة\n    \n\n    \n\n      \n        AMD Ryzen 5 7600X TRAY\n      \n\n      \n        TUF GAMING B650M-PLUS WIFI\n      \n\n      \n        RTX 5060 Ti 16GB DUAL\n      \n\n      \n        16GB DDR5 6000MHz\n      \n\n      \n        500GB NVMe SSD\n      \n\n      \n        XANDER VELOX FLOW 750W BRONZE\n      \n\n      \n        GAMDIAS BOREAS M1-620 ARGB\n      \n\n      \n        \n          السعر النهائي للباقة\n        \n\n        \n          66,666 جنيه\n        \n      \n\n    \n  \n\n  \n  \n\n    \n      RYZEN 5 7600X – GAMING BUNDLE\n    \n\n    \n      السعر الموضح هو سعر الباقة. جميع مكونات الباقة خاضعة للتوافر.\n      الضمان طبقًا لسياسة ضمان كل مكوّن. صور المنتجات إن وجدت لأغراض توضيحية."
+    }
+   ]
+  }
+ ]
+}

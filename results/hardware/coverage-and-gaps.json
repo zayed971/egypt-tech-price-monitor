@@ -1,0 +1,1972 @@
+{
+ "generated_at": "2026-10-09T20:33:37.224885+00:00",
+ "sources": [
+  {
+   "source": "qarenly",
+   "store": "Qarenly",
+   "base": "https://qarenly.com",
+   "adapter": "qarenly",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:00:36.846070+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 1099,
+   "eligible_in_stock_hardware_rows": 0,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 328,
+   "quality_issue_rows": 2,
+   "scope": "hardware",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "unknown_stock",
+     "reason": "328 hardware offers have no confirmed stock status"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "2 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "search_sample",
+     "reason": "Configured searches are sampled; prices need primary retailer verification"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "egprices",
+   "store": "EGPrices",
+   "base": "https://www.egprices.com",
+   "adapter": "egprices",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:03:12.910825+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 92,
+   "eligible_in_stock_hardware_rows": 0,
+   "missing_price_rows": 92,
+   "unknown_stock_rows": 92,
+   "quality_issue_rows": 0,
+   "scope": "hardware",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "network_or_parser_failure",
+     "reason": "network or TLS error"
+    },
+    {
+     "kind": "missing_prices",
+     "reason": "92 hardware offers have no extracted price"
+    },
+    {
+     "kind": "unknown_stock",
+     "reason": "92 hardware offers have no confirmed stock status"
+    },
+    {
+     "kind": "search_sample",
+     "reason": "Configured searches are sampled; prices need primary retailer verification"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "pricena",
+   "store": "Pricena",
+   "base": "https://eg.pricena.com",
+   "adapter": "pricena",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:00:33.424031+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 464,
+   "eligible_in_stock_hardware_rows": 0,
+   "missing_price_rows": 3,
+   "unknown_stock_rows": 3,
+   "quality_issue_rows": 464,
+   "scope": "hardware",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "missing_prices",
+     "reason": "3 hardware offers have no extracted price"
+    },
+    {
+     "kind": "unknown_stock",
+     "reason": "3 hardware offers have no confirmed stock status"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "464 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "search_sample",
+     "reason": "Configured searches are sampled; prices need primary retailer verification"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "compumarts",
+   "store": "Compumarts",
+   "base": "https://www.compumarts.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:11:45.360007+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 9327,
+   "eligible_in_stock_hardware_rows": 2591,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 106,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "106 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "kimo",
+   "store": "Kimo Store",
+   "base": "https://kimostore.net",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:17:06.031846+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 4802,
+   "eligible_in_stock_hardware_rows": 2893,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 5,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "5 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "ahw",
+   "store": "AHW Store",
+   "base": "https://ahw.store",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:13:14.464161+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 1617,
+   "eligible_in_stock_hardware_rows": 1177,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 38,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "38 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "ennap",
+   "store": "Ennap",
+   "base": "https://ennap.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:13:11.864018+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 3648,
+   "eligible_in_stock_hardware_rows": 568,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 14,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "14 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "elyamama",
+   "store": "Elyamama",
+   "base": "https://elyamamastore.com",
+   "adapter": "shopify",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:18:34.302341+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 1134,
+   "eligible_in_stock_hardware_rows": 340,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "network_or_parser_failure",
+     "reason": "network or TLS error"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "alarabiya",
+   "store": "Alarabiya Computer",
+   "base": "https://alarabiya-computer.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:13:13.411179+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 1051,
+   "eligible_in_stock_hardware_rows": 242,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 126,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "126 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "alfrensia",
+   "store": "Alfrensia",
+   "base": "https://alfrensia.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:14:55.559221+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 8143,
+   "eligible_in_stock_hardware_rows": 1725,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 292,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "292 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "softlink",
+   "store": "Softlink",
+   "base": "https://softlink-eg.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:14:55.086271+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 940,
+   "eligible_in_stock_hardware_rows": 415,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 80,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "80 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "elbadr",
+   "store": "El Badr",
+   "base": "https://elbadrgroupeg.store",
+   "adapter": "sitemap",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:18:34.307334+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 3986,
+   "eligible_in_stock_hardware_rows": 1243,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 26,
+   "scope": "catalog",
+   "comparison_only": false,
+   "discovered_product_urls": 3000,
+   "never_attempted_product_urls": 0,
+   "successfully_extracted_product_urls": 3000,
+   "failed_or_empty_product_urls": 5,
+   "gaps": [
+    {
+     "kind": "network_or_parser_failure",
+     "reason": "network or TLS error"
+    },
+    {
+     "kind": "failed_or_empty_product_pages",
+     "reason": "5 product URLs failed or yielded no listing; see crawl state"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "26 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": {
+    "source": "elbadr",
+    "base": "https://elbadrgroupeg.store",
+    "checked_at": "2026-10-06T00:47:13.633654+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://elbadrgroupeg.store/",
+      "observed_at": "2026-10-06T00:47:20.867272+00:00",
+      "bytes": 1361487,
+      "title": "البدر جروب - ELBADR GROUP STORES",
+      "links": [
+       "https://elbadrgroupeg.store/laptop",
+       "https://elbadrgroupeg.store/accessories/flash-memory",
+       "https://elbadrgroupeg.store/accessories/memory-cards",
+       "https://elbadrgroupeg.store/ram",
+       "https://www.instagram.com/elbadrgroupstore/",
+       "https://elbadrgroupeg.store/ram",
+       "https://elbadrgroupeg.store/ram",
+       "https://elbadrgroupeg.store/accessories/flash-memory",
+       "https://elbadrgroupeg.store/laptop",
+       "https://elbadrgroupeg.store/laptop",
+       "https://elbadrgroupeg.store/acer-sd200-32gb-ddr5-5600-cl46-sodimm-laptop-ram",
+       "https://elbadrgroupeg.store/acer-sd200-32gb-ddr5-5600-cl46-sodimm-laptop-ram",
+       "https://elbadrgroupeg.store/teamgroup-8gb-(1x8gb)-ddr4-3200mhz-t-force-delta-rgb-series-black-gaming-desktop-memory-tf3d48g3200hc16c01",
+       "https://elbadrgroupeg.store/teamgroup-8gb-(1x8gb)-ddr4-3200mhz-t-force-delta-rgb-series-black-gaming-desktop-memory-tf3d48g3200hc16c01",
+       "https://elbadrgroupeg.store/laptop",
+       "https://elbadrgroupeg.store/ram",
+       "https://elbadrgroupeg.store/ram",
+       "https://elbadrgroupeg.store/ram",
+       "https://elbadrgroupeg.store/memory-cards",
+       "https://elbadrgroupeg.store/memory-cards",
+       "https://elbadrgroupeg.store/memory-cards",
+       "https://elbadrgroupeg.store/flash-memory",
+       "https://elbadrgroupeg.store/flash-memory",
+       "https://elbadrgroupeg.store/flash-memory",
+       "https://elbadrgroupeg.store/kingston-fury-impact-ddr5-5600mhz-16gb-cl40-sodimm-laptop-memory"
+      ],
+      "scripts": [
+       "https://polyfill.io/v3/polyfill.min.js?features=Object.assign%2CIntersectionObserver%2CNodeList.prototype.forEach%2CArray.prototype.forEach%2CElement.prototype.matches%2CElement.prototype.prepend",
+       "catalog/view/theme/journal3/assets/d53350b5f3cb662e3c4099383695f7fb.js?v=9f3b9015",
+       "catalog/view/theme/journal3/assets/0df9b4374f39a8618026e684500c2af2.js?v=9f3b9015",
+       "https://www.googletagmanager.com/gtag/js?id=G-PVQY86YZEJ",
+       "//instant.page/5.1.0"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "ok",
+      "final_url": "https://elbadrgroupeg.store/sitemap.xml",
+      "observed_at": "2026-10-06T00:47:25.237440+00:00",
+      "bytes": 1288,
+      "title": null,
+      "links": [],
+      "scripts": [],
+      "xml_start": "<?xml version=\"1.0\" encoding=\"utf-8\"?><?xml-stylesheet type=\"text/xsl\" href=\"https://elbadrgroupeg.store/index.php?route=feed/advanced_sitemap/xslindex\"?><sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.store/sitemap-product-1.xml]]></loc>    <lastmod>2026-10-01</lastmod>  </sitemap>  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.store/sitemap-product-2.xml]]></loc>    <lastmod>2026-10-03</lastmod>  </sitemap>  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.store/sitemap-product-3.xml]]></loc>    <lastmod>2026-10-03</lastmod>  </sitemap>  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.store/sitemap-product-4.xml]]></loc>    <lastmod>2026-10-03</lastmod>  </sitemap>  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.store/sitemap-product-5.xml]]></loc>    <lastmod>2026-10-03</lastmod>  </sitemap>  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.store/sitemap-category.xml]]></loc>    <lastmod>2026-07-15</lastmod>  </sitemap>  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.store/sitemap-information.xml]]></loc>    <lastmod>2026-10-04</lastmod>  </sitemap>  <sitemap>    <loc><![CDATA[https://elbadrgroupeg.stor"
+     }
+    ]
+   }
+  },
+  {
+   "source": "sigma",
+   "store": "Sigma Computer",
+   "base": "https://sigma-computer.com",
+   "adapter": "sitemap",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:26:14.996940+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 1509,
+   "eligible_in_stock_hardware_rows": 840,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 6,
+   "scope": "catalog",
+   "comparison_only": false,
+   "discovered_product_urls": 1000,
+   "never_attempted_product_urls": 454,
+   "successfully_extracted_product_urls": 546,
+   "failed_or_empty_product_urls": 0,
+   "gaps": [
+    {
+     "kind": "adapter_or_markup",
+     "reason": "Unexpected OperationalError; adapter needs review"
+    },
+    {
+     "kind": "queued_not_yet_harvested",
+     "reason": "454 discovered product URLs have not yet been attempted"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "6 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": {
+    "source": "sigma",
+    "base": "https://sigma-computer.com",
+    "checked_at": "2026-10-06T00:47:13.638245+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://sigma-computer.com/en",
+      "observed_at": "2026-10-06T00:47:23.262264+00:00",
+      "bytes": 689554,
+      "title": "Sigma Computer",
+      "links": [
+       "https://www.facebook.com/sigmacomputer.egypt/",
+       "https://t.me/SigmaComputer/",
+       "https://www.youtube.com/@Sigma.Computer/",
+       "https://www.sigma-computer.com/en/bundles",
+       "https://www.sigma-computer.com/en/search?filters=%7B%22category_id%22%3A%5B%229f83a3f5-420b-424c-a522-6f8eeee34fc6%22%5D%7D",
+       "https://www.sigma-computer.com/en/brand/9f4a03f4-1dfa-4d30-9e3d-da3190c6402d",
+       "https://www.sigma-computer.com/en/pages/cooler-master",
+       "https://www.sigma-computer.com/en/bundles",
+       "/en/pages/nvidia-laptop50"
+      ],
+      "scripts": [
+       "/_next/static/chunks/2739-fd983d774d5d69ed.js",
+       "/_next/static/chunks/8101-880462d657793450.js",
+       "/_next/static/chunks/4851-eb8337940e2c769a.js",
+       "/_next/static/chunks/5857-f2920686b060fd67.js",
+       "/_next/static/chunks/3823-6592e0ec85f2d16e.js",
+       "/_next/static/chunks/6692-e1732137e468e05b.js",
+       "/_next/static/chunks/1186-50e38a17aa04d26a.js",
+       "/_next/static/chunks/5096-cbb5db88d84fd624.js",
+       "/_next/static/chunks/app/%5Blocale%5D/layout-8adbeaf5f1fa2a2e.js",
+       "/_next/static/chunks/app/%5Blocale%5D/not-found-f9f969abf3708c9f.js",
+       "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+       "/_next/static/chunks/webpack-bb210eeecb4afaec.js"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "ok",
+      "final_url": "https://sigma-computer.com/sitemap.xml",
+      "observed_at": "2026-10-06T00:47:27.984691+00:00",
+      "bytes": 189289,
+      "title": null,
+      "links": [],
+      "scripts": [],
+      "xml_start": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\n<url>\n<loc>https://sigma-computer.com/en</loc>\n<xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://sigma-computer.com/en\" />\n<xhtml:link rel=\"alternate\" hreflang=\"ar\" href=\"https://sigma-computer.com/ar\" />\n<lastmod>2026-10-06T00:47:27.628Z</lastmod>\n<changefreq>daily</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://sigma-computer.com/en/stores</loc>\n<xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://sigma-computer.com/en/stores\" />\n<xhtml:link rel=\"alternate\" hreflang=\"ar\" href=\"https://sigma-computer.com/ar/stores\" />\n<lastmod>2026-10-06T00:47:27.628Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://sigma-computer.com/en/wishlist</loc>\n<xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://sigma-computer.com/en/wishlist\" />\n<xhtml:link rel=\"alternate\" hreflang=\"ar\" href=\"https://sigma-computer.com/ar/wishlist\" />\n<lastmod>2026-10-06T00:47:27.628Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://sigma-computer.com/en/checkout</loc>"
+     }
+    ]
+   }
+  },
+  {
+   "source": "egyptlaptop",
+   "store": "Egypt Laptop",
+   "base": "https://egyptlaptop.com",
+   "adapter": "sitemap",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:28:38.205118+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 4594,
+   "eligible_in_stock_hardware_rows": 600,
+   "missing_price_rows": 10,
+   "unknown_stock_rows": 25,
+   "quality_issue_rows": 55,
+   "scope": "catalog",
+   "comparison_only": false,
+   "discovered_product_urls": 6193,
+   "never_attempted_product_urls": 0,
+   "successfully_extracted_product_urls": 6177,
+   "failed_or_empty_product_urls": 16,
+   "gaps": [
+    {
+     "kind": "adapter_or_markup",
+     "reason": "Unexpected OperationalError; adapter needs review"
+    },
+    {
+     "kind": "failed_or_empty_product_pages",
+     "reason": "16 product URLs failed or yielded no listing; see crawl state"
+    },
+    {
+     "kind": "missing_prices",
+     "reason": "10 hardware offers have no extracted price"
+    },
+    {
+     "kind": "unknown_stock",
+     "reason": "25 hardware offers have no confirmed stock status"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "55 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": {
+    "source": "egyptlaptop",
+    "base": "https://egyptlaptop.com",
+    "checked_at": "2026-10-06T00:47:13.632849+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://egyptlaptop.com/",
+      "observed_at": "2026-10-06T00:47:19.070832+00:00",
+      "bytes": 197490,
+      "title": "Laptops, Printers, Networking & UPS in Egypt | EgyptLaptop",
+      "links": [
+       "https://egyptlaptop.com/branches",
+       "https://egyptlaptop.com",
+       "https://egyptlaptop.com/ar",
+       "https://egyptlaptop.com/",
+       "https://egyptlaptop.com/laptops/laptops-and-notebooks",
+       "https://egyptlaptop.com/laptops/laptops-and-notebooks/2-in-1-laptops",
+       "https://egyptlaptop.com/laptops/laptops-and-notebooks/microsoft-surface",
+       "https://egyptlaptop.com/laptops/mobile-workstation",
+       "https://egyptlaptop.com/laptops/gaming-laptops",
+       "https://egyptlaptop.com/laptops/gaming-laptops/12th-gen-intel-gaming-laptops",
+       "https://egyptlaptop.com/laptops/gaming-laptops/13th-gen-intel-gaming",
+       "https://egyptlaptop.com/laptops/gaming-laptops/14th-gen-intel-gaming-laptops",
+       "https://egyptlaptop.com/laptops/gaming-laptops/amd-ryzen-gaming-laptops",
+       "https://egyptlaptop.com/computers/pc/pc-original",
+       "https://egyptlaptop.com/computers/pc/gaming-desktop",
+       "https://egyptlaptop.com/computers/pc/pc-all-in-one",
+       "https://egyptlaptop.com/servers-workstation",
+       "https://egyptlaptop.com/mobiles-and-tablets",
+       "https://egyptlaptop.com/mobiles-and-tablets/tablets",
+       "https://egyptlaptop.com/adobe-and-graphic-tablet/graphic-tablets",
+       "https://egyptlaptop.com/adobe-and-graphic-tablet/graphic-tablets/artisul",
+       "https://egyptlaptop.com/adobe-and-graphic-tablet/graphic-tablets/wacom-tablet",
+       "https://egyptlaptop.com/adobe-and-graphic-tablet/graphic-tablets/cardoo-tablet",
+       "https://egyptlaptop.com/adobe-and-graphic-tablet/graphic-tablets/xencelabs-tablet",
+       "https://egyptlaptop.com/computers/storage-devices/hard-external"
+      ],
+      "scripts": [
+       "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+       "https://egyptlaptop.com/js/lib/jquery/jquery-3.5.1.min.js?ver=1791239939",
+       "https://egyptlaptop.com/var/cache/misc/assets/js/tygh/scripts-1f3557aa7522deefa3d7815370f13f6a1791141705.js?1791141705",
+       "https://www.googletagmanager.com/gtag/js?id=G-391E179P1F",
+       "https://egyptlaptop.com/js/tygh/tabs.js?ver=1791239939",
+       "https://egyptlaptop.com/design/themes/abt__unitheme2/js/addons/pc_builder/cart_delete_confirm.js?ver=1791239939",
+       "https://egyptlaptop.com/js/tygh/service_worker_register.js?current_location=https%3A%2F%2Fegyptlaptop.com&scripts=&ver=1791239939"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "ok",
+      "final_url": "https://egyptlaptop.com/sitemap.xml",
+      "observed_at": "2026-10-06T00:47:23.358122+00:00",
+      "bytes": 778,
+      "title": null,
+      "links": [],
+      "scripts": [],
+      "xml_start": "<?xml version=\"1.0\"?>\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"><sitemap><loc>https://egyptlaptop.com/products1.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/categories1.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/feature_variants1.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/custom_links1.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/pages1.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/blog1.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/images1.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/images2.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/images3.xml</loc></sitemap><sitemap><loc>https://egyptlaptop.com/other_links1.xml</loc></sitemap></sitemapindex>\n"
+     }
+    ]
+   }
+  },
+  {
+   "source": "tv-it",
+   "store": "Technology Valley",
+   "base": "https://tv-it.com",
+   "adapter": "sitemap",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:29:52.448094+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 567,
+   "eligible_in_stock_hardware_rows": 400,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "discovered_product_urls": 4533,
+   "never_attempted_product_urls": 3322,
+   "successfully_extracted_product_urls": 977,
+   "failed_or_empty_product_urls": 234,
+   "gaps": [
+    {
+     "kind": "adapter_or_markup",
+     "reason": "Unexpected OperationalError; adapter needs review"
+    },
+    {
+     "kind": "queued_not_yet_harvested",
+     "reason": "3322 discovered product URLs have not yet been attempted"
+    },
+    {
+     "kind": "failed_or_empty_product_pages",
+     "reason": "234 product URLs failed or yielded no listing; see crawl state"
+    }
+   ],
+   "probe": {
+    "source": "tv-it",
+    "base": "https://tv-it.com",
+    "checked_at": "2026-10-06T00:47:13.642726+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://tv-it.com/",
+      "observed_at": "2026-10-06T00:47:19.218273+00:00",
+      "bytes": 245327,
+      "title": "Technology Valley",
+      "links": [
+       "https://tv-it.com/product-categories/laptops-in-egypt",
+       "https://tv-it.com/product-categories/gaming-laptop",
+       "https://tv-it.com/product-categories/business-laptops",
+       "https://tv-it.com/product-categories/economic-laptops-1",
+       "https://tv-it.com/product-categories/intel-ai-laptop#list",
+       "https://tv-it.com/product-categories/2-in-1-laptop-1#list",
+       "https://tv-it.com/product-categories/msi-laptops",
+       "https://tv-it.com/product-categories/hp-laptops",
+       "https://tv-it.com/product-categories/dell-laptops",
+       "https://tv-it.com/product-categories/acer-laptops",
+       "https://tv-it.com/product-categories/computer-1",
+       "https://tv-it.com/product-categories/computer-components-14",
+       "https://tv-it.com/product-categories/computer-case",
+       "https://tv-it.com/product-categories/computer-fans",
+       "https://tv-it.com/product-categories/laptop-computer-accessories",
+       "https://tv-it.com/product-categories/gaming-laptop",
+       "https://tv-it.com/product-categories/laptops-in-egypt",
+       "https://tv-it.com/product-categories/gaming-laptop",
+       "https://tv-it.com/product-categories/economic-laptops-1",
+       "https://tv-it.com/product-categories/business-laptops",
+       "https://tv-it.com/product-categories/dell-laptops",
+       "https://tv-it.com/product-categories/msi-laptops",
+       "https://tv-it.com/product-categories/acer-laptops",
+       "https://tv-it.com/product-categories/hp-laptops",
+       "https://tv-it.com/product-categories/2-in-1-laptop-1"
+      ],
+      "scripts": [
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/bootstrap/js/bootstrap.min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/jquery.matchHeight-min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/slick/slick.min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/jquery-bar-rating/jquery.barrating.min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/slick-animation.min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/lightGallery/js/lightgallery.min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/sticky-sidebar/sticky-sidebar.min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/plugins/select2/js/select2.min.js",
+       "https://tv-it.com/themes/technologyvalley-v1/js/main.js?v=1.29.9",
+       "https://tv-it.com/themes/technologyvalley-v1/js/backend.js?v=1.29.9",
+       "https://tv-it.com/themes/technologyvalley-v1/js/app.js?v=1.29.9",
+       "https://www.googletagmanager.com/gtag/js?id=G-HLETMMHFX4"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "ok",
+      "final_url": "https://tv-it.com/sitemap.xml",
+      "observed_at": "2026-10-06T00:47:23.683243+00:00",
+      "bytes": 3038,
+      "title": null,
+      "links": [],
+      "scripts": [],
+      "xml_start": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n    <?xml-stylesheet href=\"https://tv-it.com/vendor/core/packages/sitemap/styles/sitemapindex.xsl\" type=\"text/xsl\"?>\n\n\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n            \n                    <sitemap>\n                <loc>https://tv-it.com/pages.xml</loc>\n                                    <lastmod>2023-03-05T00:00:00+02:00</lastmod>\n                            </sitemap>\n                    \n                    <sitemap>\n                <loc>https://tv-it.com/blog-posts.xml</loc>\n                                    <lastmod>2026-10-06T03:14:06+03:00</lastmod>\n                            </sitemap>\n                    \n                    <sitemap>\n                <loc>https://tv-it.com/blog-categories.xml</loc>\n                                    <lastmod>2023-03-19T12:52:33+02:00</lastmod>\n                            </sitemap>\n                    \n                    <sitemap>\n                <loc>https://tv-it.com/blog-tags.xml</loc>\n                                    <lastmod>2023-03-19T13:01:59+02:00</lastmod>\n                            </sitemap>\n                    \n                    <sitemap>\n        "
+     }
+    ]
+   }
+  },
+  {
+   "source": "2b",
+   "store": "2B",
+   "base": "https://2b.com.eg",
+   "adapter": "sitemap",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:28:38.229934+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": true,
+   "collected_hardware_offer_rows": 1982,
+   "eligible_in_stock_hardware_rows": 1150,
+   "missing_price_rows": 14,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "hardware",
+   "comparison_only": false,
+   "discovered_product_urls": 2601,
+   "never_attempted_product_urls": 648,
+   "successfully_extracted_product_urls": 1705,
+   "failed_or_empty_product_urls": 248,
+   "gaps": [
+    {
+     "kind": "queued_not_yet_harvested",
+     "reason": "648 discovered product URLs have not yet been attempted"
+    },
+    {
+     "kind": "failed_or_empty_product_pages",
+     "reason": "248 product URLs failed or yielded no listing; see crawl state"
+    },
+    {
+     "kind": "hardware_url_filter",
+     "reason": "5146 sitemap URLs excluded by the hardware/product URL filters; opaque product slugs may be missed"
+    },
+    {
+     "kind": "missing_prices",
+     "reason": "14 hardware offers have no extracted price"
+    }
+   ],
+   "probe": {
+    "source": "2b",
+    "base": "https://2b.com.eg",
+    "checked_at": "2026-10-06T00:47:23.706578+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://2b.com.eg/",
+      "observed_at": "2026-10-06T00:47:29.943762+00:00",
+      "bytes": 2653711,
+      "title": "توبي|  اكبر موقع تسوق اون لاين في مصر لشراء الالكترونيات",
+      "links": [
+       "https://2b.com.eg/ar/computers.html",
+       "https://2b.com.eg/ar/computers/laptops.html",
+       "https://2b.com.eg/ar/computers/laptops/student.html",
+       "https://2b.com.eg/ar/computers/laptops/professional.html",
+       "https://2b.com.eg/ar/computers/laptops/gaming-laptop.html",
+       "https://2b.com.eg/ar/computers/laptops/x360.html",
+       "https://2b.com.eg/ar/computers/laptops/business.html",
+       "https://2b.com.eg/ar/computers/laptops/macbook.html",
+       "https://2b.com.eg/ar/computers/computer-accessories.html",
+       "https://2b.com.eg/ar/computers/computer-accessories/keyboards-mouse.html",
+       "https://2b.com.eg/ar/computers/computer-accessories/chargers.html",
+       "https://2b.com.eg/ar/accessories/computer-accessories/laptop-battery.html",
+       "https://2b.com.eg/ar/computers/computer-accessories/converters.html",
+       "https://2b.com.eg/ar/computers/computer-accessories/web-cams.html",
+       "https://2b.com.eg/ar/accessories/computer-accessories/other.html",
+       "https://2b.com.eg/ar/computers/network.html",
+       "https://2b.com.eg/ar/computers/network/switches.html",
+       "https://2b.com.eg/ar/computers/network/routers.html",
+       "https://2b.com.eg/ar/computers/network/access-point.html",
+       "https://2b.com.eg/ar/computers/network/wireless-adapter.html",
+       "https://2b.com.eg/ar/computers/network/extended-range.html",
+       "https://2b.com.eg/ar/computers/monitor-projector.html",
+       "https://2b.com.eg/ar/computers/monitor-projector/projectors.html",
+       "https://2b.com.eg/ar/computers/monitor-projector/gaming.html",
+       "https://2b.com.eg/ar/computers/monitor-projector/office.html"
+      ],
+      "scripts": [
+       "https://2b.com.eg/static/version1789884971/frontend/Smartwave/porto_rtl/ar_EG/requirejs/require.js",
+       "https://2b.com.eg/static/version1789884971/frontend/Smartwave/porto_rtl/ar_EG/mage/requirejs/mixins.js",
+       "https://2b.com.eg/static/version1789884971/frontend/Smartwave/porto_rtl/ar_EG/requirejs-config.js",
+       "https://2b.com.eg/static/version1789884971/frontend/Smartwave/porto_rtl/ar_EG/Aramex_Shipping/js/location_validator.js",
+       "https://2b.com.eg/static/version1789884971/frontend/Smartwave/porto_rtl/ar_EG/MageWorx_StoreLocator/js/markerClusterer.js",
+       "https://2b.com.eg/static/version1789884971/frontend/Smartwave/porto_rtl/ar_EG/MageWorx_StoreLocator/js/maps/autocomplete.js",
+       "https://waffarad.com/integration/magento2",
+       "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+       "https://webchat.tactful.ai/webchat/embed/embed.js",
+       "//dynamic.criteo.com/js/ld/ld.js?a=116731"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "ok",
+      "final_url": "https://2b.com.eg/sitemap.xml",
+      "observed_at": "2026-10-06T00:47:34.279438+00:00",
+      "bytes": 383,
+      "title": null,
+      "links": [],
+      "scripts": [],
+      "xml_start": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\r\n  <sitemap>\r\n    <loc>https://2b.com.eg/en_sitemap-1-1.xml</loc>\r\n    <lastmod>2026-07-29T13:19:00+00:00</lastmod>\r\n  </sitemap>\r\n  <sitemap>\r\n    <loc>https://2b.com.eg/ar_sitemap-2-1.xml</loc>\r\n    <lastmod>2026-07-29T13:19:00+00:00</lastmod>\r\n  </sitemap>\r\n</sitemapindex>"
+     }
+    ]
+   }
+  },
+  {
+   "source": "raya",
+   "store": "Raya Shop",
+   "base": "https://www.rayashop.com",
+   "adapter": "sitemap",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:27:25.083581+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 4018,
+   "eligible_in_stock_hardware_rows": 3552,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 1,
+   "scope": "hardware",
+   "comparison_only": false,
+   "discovered_product_urls": 3595,
+   "never_attempted_product_urls": 0,
+   "successfully_extracted_product_urls": 3574,
+   "failed_or_empty_product_urls": 21,
+   "gaps": [
+    {
+     "kind": "adapter_or_markup",
+     "reason": "Unexpected OperationalError; adapter needs review"
+    },
+    {
+     "kind": "failed_or_empty_product_pages",
+     "reason": "21 product URLs failed or yielded no listing; see crawl state"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "1 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": {
+    "source": "raya",
+    "base": "https://rayashop.com",
+    "checked_at": "2026-10-06T00:47:25.266040+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://www.rayashop.com/ar",
+      "observed_at": "2026-10-06T00:47:51.694780+00:00",
+      "bytes": 1781092,
+      "title": "Raya Shop | أفضل تجربة على الانترنت لشراءك",
+      "links": [
+       "/ar/laptops-pcs",
+       "/ar/laptops-pcs",
+       "/ar/samsung-galaxy-s26-ultra-single-sim-esim-256gb-12gb-ram-5g-black-450b5df4",
+       "/ar/samsung-galaxy-s26-ultra-single-sim-esim-256gb-12gb-ram-5g-black-450b5df4",
+       "/ar/apple-iphone-16-single-sim-128gb-8gb-ram-5g-white",
+       "/ar/apple-iphone-16-single-sim-128gb-8gb-ram-5g-white",
+       "https://www.instagram.com/rayashop.official/"
+      ],
+      "scripts": [
+       "/_nuxt/380993e.js",
+       "/_nuxt/623f301.js",
+       "/_nuxt/1b067d2.js",
+       "/_nuxt/6177ded.js",
+       "/_nuxt/232fe78.js",
+       "/_nuxt/73df837.js",
+       "/_nuxt/63261a0.js",
+       "/_nuxt/1ac0939.js",
+       "/_nuxt/2f87b46.js",
+       "/_nuxt/451c84a.js",
+       "/_nuxt/34bc461.js",
+       "/_nuxt/031a8ad.js"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "ok",
+      "final_url": "https://www.rayashop.com/sitemap.xml",
+      "observed_at": "2026-10-06T00:48:01.498415+00:00",
+      "bytes": 5208425,
+      "title": null,
+      "links": [],
+      "scripts": [],
+      "xml_start": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n <url>\n  <loc>https://www.rayashop.com/en</loc>\n  <priority>0.5</priority>\n </url>\n <url>\n  <loc>https://www.rayashop.com/en/electronics</loc>\n  <priority>1</priority>\n  <changefreq>daily</changefreq>\n  <lastmod>2026-08-20</lastmod>\n </url>\n <url>\n  <loc>https://www.rayashop.com/en/tv-accessories/televisions-and-receivers</loc>\n  <priority>1</priority>\n  <changefreq>daily</changefreq>\n  <lastmod>2026-08-07</lastmod>\n </url>\n <url>\n  <loc>https://www.rayashop.com/en/laptops/laptops-pcs</loc>\n  <priority>1</priority>\n  <changefreq>daily</changefreq>\n  <lastmod>2026-09-30</lastmod>\n </url>\n <url>\n  <loc>https://www.rayashop.com/en/desktops/laptops-pcs</loc>\n  <priority>1</priority>\n  <changefreq>daily</changefreq>\n  <lastmod>2026-05-19</lastmod>\n </url>\n <url>\n  <loc>https://www.rayashop.com/en/laptops-pcs</loc>\n  <priority>1</priority>\n  <changefreq>daily</changefreq>\n  <lastmod>2026-09-30</lastmod>\n </url>\n <url>\n  <loc>https://www.rayashop.com/en/laptops-pcs/monitors/computer-accessories</loc>\n  <priority>1</priority>\n  <changefreq>daily</changefreq>\n  <lastmod>2026-10-01</lastmod>\n "
+     }
+    ]
+   }
+  },
+  {
+   "source": "btech",
+   "store": "B.TECH",
+   "base": "https://btech.com",
+   "adapter": "sitemap",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:27:25.088497+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 910,
+   "eligible_in_stock_hardware_rows": 0,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "hardware",
+   "comparison_only": true,
+   "discovered_product_urls": 3176,
+   "never_attempted_product_urls": 1867,
+   "successfully_extracted_product_urls": 910,
+   "failed_or_empty_product_urls": 399,
+   "gaps": [
+    {
+     "kind": "adapter_or_markup",
+     "reason": "Unexpected OperationalError; adapter needs review"
+    },
+    {
+     "kind": "queued_not_yet_harvested",
+     "reason": "1867 discovered product URLs have not yet been attempted"
+    },
+    {
+     "kind": "failed_or_empty_product_pages",
+     "reason": "399 product URLs failed or yielded no listing; see crawl state"
+    }
+   ],
+   "probe": {
+    "source": "btech",
+    "base": "https://btech.com",
+    "checked_at": "2026-10-06T00:47:28.092915+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://btech.com/ar",
+      "observed_at": "2026-10-06T00:47:37.528294+00:00",
+      "bytes": 868521,
+      "title": "بي تك | أفضل عروض الأجهزة المنزلية والإلكترونية بالتقسيط",
+      "links": [
+       "/ar/c/laptop-pc",
+       "/ar/c/laptop-pc",
+       "/ar/c/laptop-pc",
+       "https://www.instagram.com/mybtech/",
+       "/ar/p/dell-latitude-7400-notebook-laptop-i5-8365u-256gb-ssd-16gb-ram-14-inch-uhd-620-windows-10-pro-black?offering_id=00328460-ca95-462a-b2f2-63b3ed9b7324"
+      ],
+      "scripts": [
+       "/_next/static/chunks/0u8y2gt2co~7i.js",
+       "/_next/static/chunks/0.9j8w_ii77s6.js",
+       "/_next/static/chunks/07l4aherdyxdh.js",
+       "/_next/static/chunks/0r2~v89~eui-1.js",
+       "/_next/static/chunks/09pt_8dhq94s~.js",
+       "/_next/static/chunks/0dfzb_r4jpwkk.js",
+       "/_next/static/chunks/0exdzdroc_vut.js",
+       "/_next/static/chunks/11~qj8qewexln.js",
+       "/_next/static/chunks/14y2az3-bexrl.js",
+       "/_next/static/chunks/03~yq9q893hmn.js",
+       "/_next/static/chunks/0.oqm9aut-bkq.js",
+       "/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "ok",
+      "final_url": "https://btech.com/sitemap.xml",
+      "observed_at": "2026-10-06T00:48:01.061825+00:00",
+      "bytes": 17099442,
+      "title": null,
+      "links": [],
+      "scripts": [],
+      "xml_start": "<?xml version='1.0' encoding='UTF-8'?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\" xmlns:image=\"http://www.google.com/schemas/sitemap-image/1.1\">\n  <url>\n    <loc>https://btech.com/ar/c/mobiles-tablets</loc>\n    <xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://btech.com/en/c/mobiles-tablets\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"ar\" href=\"https://btech.com/ar/c/mobiles-tablets\"/>\n    <lastmod>2026-09-27T14:07:37.430089Z</lastmod>\n    <changefreq>daily</changefreq>\n  </url>\n  <url>\n    <loc>https://btech.com/ar/c/mobiles-tablets/mobile-phones</loc>\n    <xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://btech.com/en/c/mobiles-tablets/mobile-phones\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"ar\" href=\"https://btech.com/ar/c/mobiles-tablets/mobile-phones\"/>\n    <lastmod>2026-09-27T14:07:37.430089Z</lastmod>\n    <changefreq>daily</changefreq>\n  </url>\n  <url>\n    <loc>https://btech.com/ar/c/mobiles-tablets/mobile-phones/smartphones</loc>\n    <xhtml:link rel=\"alternate\" hreflang=\"en\" href=\"https://btech.com/en/c/mobiles-tablets/mobile-phones/smartphones\"/>\n    <xhtml:link rel=\"alternate\" hreflang=\"ar\" href=\"htt"
+     }
+    ]
+   }
+  },
+  {
+   "source": "jumia",
+   "store": "Jumia Egypt",
+   "base": "https://www.jumia.com.eg",
+   "adapter": "html",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:28:38.198239+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 123,
+   "eligible_in_stock_hardware_rows": 116,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 3,
+   "scope": "hardware",
+   "comparison_only": false,
+   "discovered_product_urls": 101,
+   "never_attempted_product_urls": 0,
+   "successfully_extracted_product_urls": 101,
+   "failed_or_empty_product_urls": 3,
+   "gaps": [
+    {
+     "kind": "adapter_or_markup",
+     "reason": "Unexpected OperationalError; adapter needs review"
+    },
+    {
+     "kind": "failed_or_empty_product_pages",
+     "reason": "3 product URLs failed or yielded no listing; see crawl state"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "3 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": {
+    "source": "jumia",
+    "base": "https://www.jumia.com.eg",
+    "checked_at": "2026-10-06T00:47:23.381501+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://www.jumia.com.eg/",
+      "observed_at": "2026-10-06T00:47:32.614083+00:00",
+      "bytes": 813609,
+      "title": "Jumia: Shop Online Top Phones, Electronics & Fashion in Egypt",
+      "links": [
+       "/al-ahram-aluminum-pizza-pan-set-3-pcs-classic-263034-24378402.html",
+       "/joc-usb-memory-47723434.html",
+       "/al-ahram-4-burner-stove-50-cm-silver-black-134133699.html",
+       "/adidas-duramo-rc2-running-shoes-134351007.html",
+       "/oppo-a6-8gb-ram-256gb-4g-sapphire-blue-134216038.html",
+       "/samsung-galaxy-a07-dual-sim-256gb-8gb-ram-4g-lte-black-134044052.html",
+       "/honor-x8d-dual-sim-512gb-8gb-ram-4g-lte-velvet-grey-134420204.html",
+       "/oppo-mobile-a6-6gb-ram-128-gb-4g-dual-sim-aurora-gold-134215832.html",
+       "/samsung-galaxy-s26-ultra-dual-sim-cobalt-violet-12gb-ram-256gb-5g-134468910.html",
+       "/xiaomi-redmi-a7-pro-64gb-4gb-ram-sunset-orange-4g-134623256.html",
+       "/hoho-55-inch-frameless-smart-tv-4k-uhd-with-wi-fi-bluetooth-whale-tv-digital-receiver-3-hdmi-2-usb-model-hk5507sfl-black-134580415.html",
+       "/hoho-50-inch-frameless-4k-uhd-smart-android-tv-built-in-digital-receiver-wifi-3-hdmi-2-usb-hs5006sfl-133675197.html",
+       "/haier-smart-55-inch-frameless-tv-with-built-in-receiver-h55k85gux-134770328.html",
+       "/grouhy-65-inch-4k-uhd-frameless-smart-led-tv-with-built-in-receiver-gld65sd-134641986.html",
+       "/hoho-75-inch-frameless-smart-tv-4k-uhd-with-webos-wi-fi-built-in-digital-receiver-3-hdmi-2-usb-model-hs7506sfl-black-134580487.html",
+       "/hoho-85-inch-frameless-smart-tv-4k-uhd-with-webos-wi-fi-built-in-digital-receiver-3-hdmi-2-usb-model-hs8506sfl-134581769.html",
+       "/sokany-digital-air-fryer-7.5l-2200w-dual-heating-elements-10-cooking-programs-with-defrost-touch-display-black-model-sk-10085-1-year-warranty-134630705.html",
+       "/al-ahram-4-burner-stove-50-cm-silver-black-134133699.html",
+       "/al-ahram-4-burner-stove-50-cm-silver-black-134133699.html",
+       "/dishwasher-5-programs-14-persons-silver-steam-digital-bdfn15420s-beko-mpg943776.html",
+       "/fresh-ceramic-hob-2800-watts-2-burners-black-fe-c2800-b-134303618.html",
+       "/kumtel-built-in-extractor-hood-pyramid-shape-90-cm-1000-mh-3-speeds-dp9-x51-silver-134754143.html",
+       "/generic-adjustable-laptop-stand-portable-aluminum-laptop-riser-for-desk-foldable-ventilated-cooling-computer-stand-ergonomic-laptop-holder-compatible-with-most-1015.6-inch-laptops-134864171.html",
+       "https://www.instagram.com/jumiaegypt/"
+      ],
+      "scripts": [
+       "https://www.jumia.com.eg/assets_he/js/common.0c5de55f.js",
+       "https://www.jumia.com.eg/assets_he/js/pages/home/index.a68bb773.js",
+       "https://www.jumia.com.eg/assets_he/js/common.es5.a678c5cd.js",
+       "https://www.jumia.com.eg/assets_he/js/pages/home/index.es5.317bfb1b.js"
+      ],
+      "xml_start": null
+     },
+     {
+      "path": "/sitemap.xml",
+      "status": "failed",
+      "error": "HTTP 404"
+     }
+    ]
+   }
+  },
+  {
+   "source": "amazon-eg",
+   "store": "Amazon Egypt",
+   "base": "https://www.amazon.eg",
+   "adapter": "html",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:27:25.079496+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 13,
+   "eligible_in_stock_hardware_rows": 13,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "hardware",
+   "comparison_only": false,
+   "discovered_product_urls": 113,
+   "never_attempted_product_urls": 112,
+   "successfully_extracted_product_urls": 1,
+   "failed_or_empty_product_urls": 0,
+   "gaps": [
+    {
+     "kind": "queued_not_yet_harvested",
+     "reason": "112 discovered product URLs have not yet been attempted"
+    }
+   ],
+   "probe": {
+    "source": "amazon-eg",
+    "base": "https://www.amazon.eg",
+    "checked_at": "2026-10-06T00:47:34.309527+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://www.amazon.eg/",
+      "observed_at": "2026-10-06T00:47:40.632395+00:00",
+      "bytes": 1035533,
+      "title": "أمازون مصر: تسوق أونلاين | أسعار مخفضة على الإلكترونيات، الأزياء، الموبايل، السوبرماركت والمزيد",
+      "links": [],
+      "scripts": [
+       "https://m.media-amazon.com/images/I/21Yni+jKzkL.js?AUIClients/GWMMetricsJS#isWindowDisplay-true"
+      ],
+      "xml_start": null
+     }
+    ]
+   }
+  },
+  {
+   "source": "noon",
+   "store": "Noon Egypt",
+   "base": "https://www.noon.com",
+   "adapter": "html",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:17:06.332594+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 1,
+   "eligible_in_stock_hardware_rows": 1,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "hardware",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "robots_policy_or_unavailable",
+     "reason": "robots.txt disallows requested URL"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": {
+    "source": "noon",
+    "base": "https://www.noon.com",
+    "checked_at": "2026-10-06T00:47:37.090631+00:00",
+    "endpoints": [
+     {
+      "path": "/",
+      "status": "ok",
+      "final_url": "https://www.noon.com/uae-en/",
+      "observed_at": "2026-10-06T00:48:11.173502+00:00",
+      "bytes": 955330,
+      "title": "noon Online Shopping UAE - Electronics, Mobiles, Fashion, Appliances & More",
+      "links": [
+       "/uae-en/laptops/",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/laptops/apple/?sort%5Bby%5D=popularity&sort%5Bdir%5D=desc",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/computers-new/laptops/?f%5Bprocessor_type%5D%5B%5D=apple_m4",
+       "/uae-en/gaming-laptops-all/",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/computers-new/laptops/?f%5Bprice%5D%5Bmax%5D=1499&f%5Bprice%5D%5Bmin%5D=0",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/computer-accessories/printers/",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/lenovo/",
+       "/uae-en/fashion/luggage-and-bags/laptop-bags-and-cases/fashion-men/?limit=50&searchDebug=false&sort%5Bby%5D=popularity&sort%5Bdir%5D=desc",
+       "/uae-en/fashion/luggage-and-bags/laptop-bags-and-cases/fashion-women/?limit=50&searchDebug=false&sort%5Bby%5D=popularity&sort%5Bdir%5D=desc",
+       "/uae-en/trampoline-inflatable-TO_09/",
+       "/uae-en/sports-and-outdoors/exercise-and-fitness/trampoline/",
+       "/uae-en/sports-and-outdoors/cycling-16009/cycling-components/",
+       "/uae-en/sports-and-outdoors/action-sports/scooters-and-equipment-18103/components-and-parts/",
+       "/uae-en/books/poetry-drama-criticism/",
+       "/uae-en/laptops/",
+       "/uae-en/computer-accessories/",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/saving-new-22-ae/",
+       "/uae-en/osram-offer-b2g20/",
+       "/uae-en/ae-laptops-focus-skus/?f%5BisCarousel%5D=true",
+       "/uae-en/premium-laptop-acc-deals-ae/",
+       "/uae-en/laptops/",
+       "/uae-en/laptops/",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/printers/?f%5Bis_fbn%5D=1&limit=50&sort%5Bby%5D=popularity&sort%5Bdir%5D=desc",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/laptops/apple/?limit=50&sort%5Bby%5D=popularity&sort%5Bdir%5D=desc",
+       "/uae-en/electronics-and-mobiles/computers-and-accessories/laptops/?f%5Bprice%5D%5Bmax%5D=1499&f%5Bprice%5D%5Bmin%5D=0&limit=50&sort%5Bby%5D=popularity&sort%5Bdir%5D=desc"
+      ],
+      "scripts": [
+       "https://z.nooncdn.com/s/app/2026/com/e83af07bca3014d16b61e7b3f6acbc4a8149d0aa/bigalog/assets/index-SHaofVUQ.js"
+      ],
+      "xml_start": null
+     }
+    ]
+   }
+  },
+  {
+   "source": "dream2000",
+   "store": "Dream 2000",
+   "base": "https://dream2000.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:20:00.768070+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 92,
+   "eligible_in_stock_hardware_rows": 63,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "zstations",
+   "store": "Z-Station",
+   "base": "https://zstations.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:18:34.534417+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 299,
+   "eligible_in_stock_hardware_rows": 266,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "recoverytrading",
+   "store": "Recovery Trading",
+   "base": "https://recoverytrading.org",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:20:01.313580+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 380,
+   "eligible_in_stock_hardware_rows": 223,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 5,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "listing_quality",
+     "reason": "5 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "king_tech_eg",
+   "store": "King Tech",
+   "base": "https://king-tech-eg.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:20:02.114879+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 704,
+   "eligible_in_stock_hardware_rows": 141,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 6,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "6 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "dokkantech",
+   "store": "DokkanTech",
+   "base": "https://dokkantech.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:21:19.180232+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 997,
+   "eligible_in_stock_hardware_rows": 458,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 3,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "3 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "wifigroup",
+   "store": "WiFi Group",
+   "base": "https://wifigroup.shop",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:21:18.037665+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 723,
+   "eligible_in_stock_hardware_rows": 337,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 2,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "listing_quality",
+     "reason": "2 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "egdigitaldreams",
+   "store": "Digital Dreams",
+   "base": "https://egdigitaldreams.com",
+   "adapter": "woo",
+   "status": "blocked_or_failed",
+   "last_saved_at": "2026-10-09T20:22:28.681313+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 248,
+   "eligible_in_stock_hardware_rows": 146,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "network_or_parser_failure",
+     "reason": "network or TLS error"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "geeksstoreeg",
+   "store": "Geeks Store",
+   "base": "https://geeksstoreeg.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:22:28.368321+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 61,
+   "eligible_in_stock_hardware_rows": 60,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "v2comeg",
+   "store": "V2Com Egypt",
+   "base": "https://v2comeg.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:21:19.455732+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 6,
+   "eligible_in_stock_hardware_rows": 6,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "myxprs",
+   "store": "XPRS",
+   "base": "https://myxprs.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:22:28.574045+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 41,
+   "eligible_in_stock_hardware_rows": 34,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "pctech_eg",
+   "store": "PC Tech Store",
+   "base": "https://pctech-eg.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:23:44.709684+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 948,
+   "eligible_in_stock_hardware_rows": 280,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 17,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "listing_quality",
+     "reason": "17 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "venomtecheg",
+   "store": "Venom Technology",
+   "base": "https://venomtecheg.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:23:45.505782+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 798,
+   "eligible_in_stock_hardware_rows": 328,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 5,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "listing_quality",
+     "reason": "5 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "squaretec",
+   "store": "Square Tech",
+   "base": "https://squaretec.store",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:23:45.830933+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 203,
+   "eligible_in_stock_hardware_rows": 16,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "elmasrypc",
+   "store": "El Masry PC",
+   "base": "https://elmasrypc.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:24:57.248098+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 119,
+   "eligible_in_stock_hardware_rows": 33,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "lordlaptop",
+   "store": "Lord Laptops",
+   "base": "https://lordlaptop.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:24:57.838028+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 531,
+   "eligible_in_stock_hardware_rows": 70,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "awfarlak",
+   "store": "Awfarlak",
+   "base": "https://awfarlak.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:24:57.324004+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 49,
+   "eligible_in_stock_hardware_rows": 49,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "laptopmasr",
+   "store": "Laptop Masr",
+   "base": "https://laptopmasr.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:26:14.886823+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 401,
+   "eligible_in_stock_hardware_rows": 61,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 6,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "6 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "alsahaba",
+   "store": "Al Sahaba Laptop",
+   "base": "https://alsahaba.com.eg",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:06:51.072635+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 399,
+   "eligible_in_stock_hardware_rows": 167,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "targetstoreg",
+   "store": "Target Store",
+   "base": "https://targetstoreg.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:04:43.886097+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 384,
+   "eligible_in_stock_hardware_rows": 211,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "digital",
+   "store": "Digital",
+   "base": "https://digital.com.eg",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:04:37.215659+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 9,
+   "eligible_in_stock_hardware_rows": 9,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "dar_elcomputer",
+   "store": "Dar El Computer",
+   "base": "https://dar-elcomputer.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:05:00.710413+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 873,
+   "eligible_in_stock_hardware_rows": 564,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 1,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "listing_quality",
+     "reason": "1 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "elhamd",
+   "store": "Elhamd Computer Supplies",
+   "base": "https://elhamd.net",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:06:51.463372+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 302,
+   "eligible_in_stock_hardware_rows": 251,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 8,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "listing_quality",
+     "reason": "8 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "hankerz",
+   "store": "Hankerz",
+   "base": "https://hankerz.com.eg",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:09:09.544263+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 214,
+   "eligible_in_stock_hardware_rows": 206,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "compunilestore",
+   "store": "Compu Nile Store",
+   "base": "https://compunilestore.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:06:51.864321+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 365,
+   "eligible_in_stock_hardware_rows": 194,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 7,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "7 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "imapstores",
+   "store": "iMap Stores",
+   "base": "https://imapstores.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:17:03.597143+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 364,
+   "eligible_in_stock_hardware_rows": 72,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 1,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "1 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "static_eg",
+   "store": "Static",
+   "base": "https://static-eg.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:09:09.765627+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 158,
+   "eligible_in_stock_hardware_rows": 154,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 4,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "listing_quality",
+     "reason": "4 hardware offers require verification; see unpriced-or-unverified.csv"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "moreshopping",
+   "store": "More Shopping",
+   "base": "https://moreshopping.com",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:09:10.971474+00:00",
+   "feed_exhausted": true,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 797,
+   "eligible_in_stock_hardware_rows": 653,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 0,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [],
+   "probe": null
+  },
+  {
+   "source": "techno1",
+   "store": "Techno1",
+   "base": "https://techno1.net",
+   "adapter": "shopify",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:11:43.657897+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 631,
+   "eligible_in_stock_hardware_rows": 265,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 16,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "16 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  },
+  {
+   "source": "wifitotallynetworking",
+   "store": "WiFi Totally Networking",
+   "base": "https://wifitotallynetworking.com",
+   "adapter": "woo",
+   "status": "ok",
+   "last_saved_at": "2026-10-09T20:11:44.115112+00:00",
+   "feed_exhausted": false,
+   "discovery_exhausted": false,
+   "collected_hardware_offer_rows": 139,
+   "eligible_in_stock_hardware_rows": 123,
+   "missing_price_rows": 0,
+   "unknown_stock_rows": 0,
+   "quality_issue_rows": 6,
+   "scope": "catalog",
+   "comparison_only": false,
+   "gaps": [
+    {
+     "kind": "discovery_or_feed_limit",
+     "reason": "Configured page/document limit was reached"
+    },
+    {
+     "kind": "listing_quality",
+     "reason": "6 hardware offers require verification; see unpriced-or-unverified.csv"
+    },
+    {
+     "kind": "coverage_not_proven",
+     "reason": "Previous collection did not record an exhausted feed or complete URL inventory"
+    }
+   ],
+   "probe": null
+  }
+ ],
+ "deferred_and_excluded": {
+  "enabled": "See sources.json and data/source-status.json for live results; each run is bounded by page/detail limits.",
+  "eg-pc.com": "Redirects to Qarenly; collected once through Qarenly.",
+  "Smart Technology": "Pending an unambiguous store URL; do not guess which business this name refers to.",
+  "btech.com": "Comparison-only collection; not eligible for buying alerts.",
+  "ubuy.com.eg": "Import baseline deferred; do not compare imported prices without shipping/taxes and exchange-rate evidence.",
+  "reference_specs": "The schema and exact-MPN reference join are implemented. Supply verified manufacturer/reference facts in references.json; missing facts remain null. Automatic crawling of all reference databases is deferred.",
+  "market_baselines": "Exchange-rate import is supported through the fx command. RAM indices and PCPartPicker price history are deferred.",
+  "reputation": "Deferred. No store risk score is fabricated from missing review data. Official Reddit/YouTube/Places APIs require their own credentials.",
+  "used_lifetimes": "Not implemented in this MVP while Dubizzle is blocked. Disappeared listings cannot establish actual sale price.",
+  "never_collect": [
+   "Dubizzle seller names, profile data and phone numbers",
+   "Google Maps reviews by scraping",
+   "Private Facebook groups, seller profiles, contacts, messages and credentials"
+  ],
+  "marketplaces": "Amazon/Noon receive a small daily public sample; other marketplaces use discovered hardware URLs. Consult hardware/coverage-and-gaps.json for actual results; do not mistake a reachable homepage for product coverage.",
+  "market_boundary": "Only configured online sources and their public feed/sitemap/search inventories. Unknown stores, offline stock, private groups and inventories absent from public pages remain outside measured coverage.",
+  "unsupported_fields": "Unknown RAM capacity, DDR type, form factor, module count, warranty, shipping, benchmarks and PSU quality remain explicit gaps. No values are invented.",
+  "accessories_and_tech": "Accessories, peripherals, audio, gaming/VR, creator equipment, maker tools, smart-home gear, wearables, tablets and e-readers from configured public sources. Specialist stores not in sources.json, offline inventories, opaque marketplace titles/URLs and missing compatibility remain outside measured coverage. No claim of every accessory in Egypt.",
+  "facebook_marketplace": "Public Egypt HTTP probe enabled at user request. Live cloud test on 2026-10-06 collected zero listings: robots.txt disallows Marketplace. One access failure stops the probe; retry no more than daily. No authenticated Facebook session or connection to the owner's PC exists here. Local Chrome collection is a separate, owner-operated option; visible candidates have unconfirmed availability."
+ },
+ "limits": "Coverage measures configured sources and discovered inventories, not the whole Egyptian market. An accessible homepage is not a harvested catalogue."
+}

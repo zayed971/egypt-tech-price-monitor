@@ -1,0 +1,24 @@
+{
+ "started_at": "2026-10-05T21:56:58.181071+00:00",
+ "finished_at": "2026-10-05T22:01:54.124615+00:00",
+ "scope": "catalog",
+ "cache_ttl_seconds": 0,
+ "selected_sources": [
+  "qarenly",
+  "egprices",
+  "pricena",
+  "compumarts",
+  "kimo",
+  "ahw",
+  "ennap",
+  "elyamama",
+  "alarabiya",
+  "alfrensia",
+  "softlink"
+ ],
+ "fresh_listing_rows": 33881,
+ "fresh_priced_egp_rows": 28904,
+ "fresh_unique_priced_store_products": 22326,
+ "fresh_in_stock_priced_rows": 12283,
+ "old_or_cached_rows_excluded_from_fresh_count": 23
+}

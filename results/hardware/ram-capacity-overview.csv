@@ -1,0 +1,49 @@
+ram_type,capacity_gb,form_factor,min_egp,brand,modules,store,status,url
+DDR2,8,DIMM,,,,,no_verified_matching_offer,
+DDR2,8,SODIMM,,,,,no_verified_matching_offer,
+DDR2,8,RDIMM,,,,,no_verified_matching_offer,
+DDR2,16,DIMM,,,,,no_verified_matching_offer,
+DDR2,16,SODIMM,,,,,no_verified_matching_offer,
+DDR2,16,RDIMM,,,,,no_verified_matching_offer,
+DDR2,32,DIMM,,,,,no_verified_matching_offer,
+DDR2,32,SODIMM,,,,,no_verified_matching_offer,
+DDR2,32,RDIMM,,,,,no_verified_matching_offer,
+DDR2,64,DIMM,,,,,no_verified_matching_offer,
+DDR2,64,SODIMM,,,,,no_verified_matching_offer,
+DDR2,64,RDIMM,,,,,no_verified_matching_offer,
+DDR3,8,DIMM,1200.0,HIKSEMI,,Elyamama,observed_in_stock,https://elyamamastore.com/products/hiksemi-hiker-8gb-ddr3-1600mhz?variant=51947163713767
+DDR3,8,SODIMM,1199.0,Dahua,,Kimo Store,observed_in_stock,https://kimostore.net/products/dahua-c160-ram-for-laptop-8gb-ddr3-1600mhz?variant=46744481267968
+DDR3,8,RDIMM,,,,,no_verified_matching_offer,
+DDR3,16,DIMM,,,,,no_verified_matching_offer,
+DDR3,16,SODIMM,,,,,no_verified_matching_offer,
+DDR3,16,RDIMM,,,,,no_verified_matching_offer,
+DDR3,32,DIMM,,,,,no_verified_matching_offer,
+DDR3,32,SODIMM,,,,,no_verified_matching_offer,
+DDR3,32,RDIMM,,,,,no_verified_matching_offer,
+DDR3,64,DIMM,,,,,no_verified_matching_offer,
+DDR3,64,SODIMM,,,,,no_verified_matching_offer,
+DDR3,64,RDIMM,,,,,no_verified_matching_offer,
+DDR4,8,DIMM,2649.0,Apacer,1,Softlink,observed_in_stock,https://softlink-eg.com/product/apacer-8gb-ddr4-3200mhz-cl22-desktop-memory-module/
+DDR4,8,SODIMM,2000.0,,1,Target Store,observed_in_stock,https://targetstoreg.com/products/ram-8gb-ddr4-2400mhz-2666mhz-3200mhz-laptop-memory-module?variant=47158658466019
+DDR4,8,RDIMM,,,,,no_verified_matching_offer,
+DDR4,16,DIMM,4999.0,Kingston,,Square Tech,observed_in_stock,https://squaretec.store/products/kingston-valueram-16gb-ddr4-2666mhz-cl19-dimm?variant=45709768458342
+DDR4,16,SODIMM,3700.0,,1,Target Store,observed_in_stock,https://targetstoreg.com/products/ram-16gb-ddr4-2400mhz-2666mhz-3200mhz-laptop-memory-module?variant=47158596436195
+DDR4,16,RDIMM,,,,,no_verified_matching_offer,
+DDR4,32,DIMM,11000.0,Crucial,,Softlink,observed_in_stock,https://softlink-eg.com/product/crucial-32gb-ddr4-3200-udimm/
+DDR4,32,SODIMM,9750.0,TEAMGROUP,1,Compumarts,observed_in_stock,https://www.compumarts.com/products/teamgroup-elite-32gb-ddr4-laptop-ram-3200mhz-cl22?variant=46933472149653
+DDR4,32,RDIMM,,,,,no_verified_matching_offer,
+DDR4,64,DIMM,27000.0,Kingston,2,El Badr,observed_in_stock,https://elbadrgroupeg.store/kingston-fury-beast-rgb-64gb-(2x32gb)-ddr4-3200
+DDR4,64,SODIMM,,,,,no_verified_matching_offer,
+DDR4,64,RDIMM,,,,,no_verified_matching_offer,
+DDR5,8,DIMM,6500.0,Crucial,,Elhamd Computer Supplies,observed_in_stock,https://elhamd.net/crucial-8g-ddr5-5600mhz-desktop-memory/
+DDR5,8,SODIMM,6500.0,Crucial,1,Sigma Computer,observed_in_stock,https://sigma-computer.com/en/item?id=crucial-8gb-ddr5-5600-sodimm-ct8g56c46s5-ug1xbpgfxntp
+DDR5,8,RDIMM,,,,,no_verified_matching_offer,
+DDR5,16,DIMM,9500.0,Acer,,El Badr,observed_in_stock,https://elbadrgroupeg.store/acer-ud200-ddr5-16gb-4800mhz-udimm-desktop-ram
+DDR5,16,SODIMM,9300.0,Acer,1,Dar El Computer,observed_in_stock,https://dar-elcomputer.com/products/ram-acer-laptop-so-dimm-16gb-ddr5-5600mt-s-memory-module?variant=52641241694528
+DDR5,16,RDIMM,,,,,no_verified_matching_offer,
+DDR5,32,DIMM,16300.0,Acer,1,Dar El Computer,observed_in_stock,https://dar-elcomputer.com/products/ram-acer-32gb-ddr5-4800mt-s-desktop?variant=52641337180480
+DDR5,32,SODIMM,20500.0,KLEVV,1,Sigma Computer,observed_in_stock,https://sigma-computer.com/en/item?id=klevv-ddr5-32gb-1x32gb-5600mhz-cl46-sodimm-11v-kd5agsa80-56g460a-fztzmil4sxyp
+DDR5,32,RDIMM,,,,,no_verified_matching_offer,
+DDR5,64,DIMM,42500.0,Patriot,2,Z-Station,observed_in_stock,https://zstations.com/products/64gb-2x32gb-ram-viper-elite-5-non-rgb-ddr5-performance-dram?variant=51735948427396
+DDR5,64,SODIMM,,,,,no_verified_matching_offer,
+DDR5,64,RDIMM,,,,,no_verified_matching_offer,

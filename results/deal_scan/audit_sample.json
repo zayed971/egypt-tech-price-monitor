@@ -1,0 +1,98 @@
+[
+ {
+  "category": "ssd",
+  "title": "HIKSEMI Elite Portable SSD 1TB , Read Speed Up to 1050MB/s",
+  "db_cheapest_egp": 5999,
+  "db_store": "Sigma Computer",
+  "db_url": "https://sigma-computer.com/en/item",
+  "stores_in_db": 3
+ },
+ {
+  "category": "monitor",
+  "title": "V2Com D1 24 Inch IPS QHD Portable Monitor 180Hz",
+  "db_cheapest_egp": 20999,
+  "db_store": "Kimo Store",
+  "db_url": "https://kimostore.net/products/v2com-d1-24-inch-ips-qhd-portable-monitor-180hz",
+  "stores_in_db": 2
+ },
+ {
+  "category": "peripheral",
+  "title": "T-Dagger Arena TGK321 60% Mechanical Gaming Keyboard – Blue Switch, Rainbow LED",
+  "db_cheapest_egp": 699,
+  "db_store": "El Badr",
+  "db_url": "https://elbadrgroupeg.store/t-dagger-arena-tgk321-60-mechanical-gaming-keyboard-blue-switch",
+  "stores_in_db": 4
+ },
+ {
+  "category": "peripheral",
+  "title": "Meetion MK009RD Rainbow Hot Swappable Red switch Arabic Wired Mechanical Keyboard",
+  "db_cheapest_egp": 875,
+  "db_store": "Alfrensia",
+  "db_url": "https://alfrensia.com/en/product/meetion-mk009rd-rainbow-hot-swappable-red-switch-arabic-wired-mechanical-keyboard/",
+  "stores_in_db": 2
+ },
+ {
+  "category": "peripheral",
+  "title": "Redragon Gainer M610 Wired Gaming Mouse 3200Dpi",
+  "db_cheapest_egp": 549,
+  "db_store": "Kimo Store",
+  "db_url": "https://kimostore.net/products/redragon-gainer-m610-wired-gaming-mouse-3200dpi",
+  "stores_in_db": 2
+ },
+ {
+  "category": "psu",
+  "title": "Aerocool AERO BRONZE 750W 80Plus Bronze Power Supply",
+  "db_cheapest_egp": 2499,
+  "db_store": "Alfrensia",
+  "db_url": "https://alfrensia.com/en/product/aerocool-aero-bronze-750w-80plus-bronze-power-supply/",
+  "stores_in_db": 2
+ },
+ {
+  "category": "cpu",
+  "title": "INTEL Core i7-14700 20(8P-12E)/28, 1.5GHz/5.4GHz 33MB,65W TDP, Socket LGA 1700 - TREY",
+  "db_cheapest_egp": 17999,
+  "db_store": "Technology Valley",
+  "db_url": "https://tv-it.com/products/cpu-intel-ci7-14700-33mb-cache-lga170-tray",
+  "stores_in_db": 2
+ },
+ {
+  "category": "motherboard",
+  "title": "Gigabyte H610M H V2 DDR5 LGA1700 M-ATX Motherboard",
+  "db_cheapest_egp": 4250,
+  "db_store": "AHW Store",
+  "db_url": "https://ahw.store/products/gigabyte-h610m-h-v2-ddr5-lga1700-m-atx-motherboard",
+  "stores_in_db": 3
+ },
+ {
+  "category": "network",
+  "title": "D-Link N300 Smart Router - R04",
+  "db_cheapest_egp": 649,
+  "db_store": "2B",
+  "db_url": "https://2b.com.eg/en/d-link-n300-smart-router-r04.html",
+  "stores_in_db": 2
+ },
+ {
+  "category": "accessory",
+  "title": "Arctic Hunter B00345 Laptop Backpack - Black",
+  "db_cheapest_egp": 2499,
+  "db_store": "Kimo Store",
+  "db_url": "https://kimostore.net/products/arctic-hunter-b00345-laptop-backpack-black",
+  "stores_in_db": 2
+ },
+ {
+  "category": "cooler",
+  "title": "Lian Li HydroShift II LCD-C 360TL 360MM White with UNI FAN TL Wireles AIO Liquid Cpu Coole",
+  "db_cheapest_egp": 10199,
+  "db_store": "Alfrensia",
+  "db_url": "https://alfrensia.com/en/product/lian-li-hydroshift-ii-lcd-c-360tl-360mm-white-with-uni-fan-tl-wireles-aio-liquid-cpu-cooler/",
+  "stores_in_db": 2
+ },
+ {
+  "category": "audio",
+  "title": "Anker Soundcore R50i NC A3959H11 Earbuds - Black",
+  "db_cheapest_egp": 1499,
+  "db_store": "Kimo Store",
+  "db_url": "https://kimostore.net/products/anker-soundcore-r50i-a3959h11-nc-earbuds-black",
+  "stores_in_db": 2
+ }
+]

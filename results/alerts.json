@@ -1,0 +1,72 @@
+[
+ {
+  "rule": "drop-24h",
+  "listing_id": "009aadf1c731dc59e0adac93",
+  "price_egp": 3030.0,
+  "message": "Price down 34.4% within 24h: 4,620 → 3,030 EGP\nAHW Store: Razer BlackShark V2 X Gaming Headset: 7.1 Surround Sound - 50mm Drivers - Memory Foam Cushion - for\nhttps://ahw.store/products/razer-blackshark-v2-x-white-gaming-headset?variant=47827271975130",
+  "new": false
+ },
+ {
+  "rule": "ddr5-laptop-16",
+  "listing_id": "b1ff5661d6e1743e9418a0fa",
+  "price_egp": 9500.0,
+  "message": "16GB DDR5 laptop stick: 9,500 EGP (target ≤ 10,000)\nCompumarts: Acer SD200 16GB DDR5 5600MHz CL46 262-Pin SO-DIMM Laptop Memory Module\nhttps://www.compumarts.com/products/products-acer-sd200-16gb-ddr5-5600-laptop-ram-egypt?variant=46759778713749",
+  "new": false
+ },
+ {
+  "rule": "ddr5-laptop-16",
+  "listing_id": "474f2b9efe1b43380cbf30d1",
+  "price_egp": 9550.0,
+  "message": "16GB DDR5 laptop stick: 9,550 EGP (target ≤ 10,000)\nCompumarts: PNY MN16GSD54800-BLK 16GB DDR5 4800MHz SO-DIMM Laptop Memory – CL40, 1.1V, Non-ECC\nhttps://www.compumarts.com/products/pny-mn16gsd54800-blk-16gb-ddr5-4800mhz-sodimm?variant=46534690013333",
+  "new": false
+ },
+ {
+  "rule": "drop-24h",
+  "listing_id": "b1a6bb34055ff26004379240",
+  "price_egp": 225.0,
+  "message": "Price down 9.6% within 24h: 249 → 225 EGP\nJumia Egypt: 15.6 Inch Waterproof Laptop Sleeve - VOYA Protective Case -Deep Blue\nhttps://www.jumia.com.eg/generic-15.6-inch-waterproof-laptop-sleeve-voya-protective-case-deep-blue-134006571.html",
+  "new": false
+ },
+ {
+  "rule": "loq-14700hx-5060",
+  "listing_id": "8440bbca21595409c77288e6",
+  "price_egp": 69499.0,
+  "message": "LOQ 15IRX10 i7-14700HX / RTX 5060: 69,499 EGP (target ≤ 70,000)\nSigma Computer: Lenovo LOQ 15IRX10 83JE00U1AX Intel Core i7-14700HX - NVIDIA RTX 5060 8GB - 16GB DDR5-5600Mhz - 512GB SSD M.2 - 15.6\" FHD IPS 144Hz 100% sRGB - Dos\nhttps://sigma-computer.com/en/item?id=lenovo-loq-15irx10-83je00u1ax-intel-core-i7-14700hx-nvidia-rtx-5060-8gb-16gb-ddr5-5600mhz-512gb-ssd-m2-156-fhd-ips-144hz-100-srgb-dos-vsmdl0g6sneq",
+  "new": false
+ },
+ {
+  "rule": "ddr5-laptop-16",
+  "listing_id": "fa8ea7e4455b26b15e939b46",
+  "price_egp": 10000.0,
+  "message": "16GB DDR5 laptop stick: 10,000 EGP (target ≤ 10,000)\nSigma Computer: PNY MN16GSD54800-BLK – 16GB DDR5 4800MHz SO-DIMM, CL40, 1.1V, Non-ECC ( Tray )\nhttps://sigma-computer.com/en/item?id=pny-mn16gsd54800-blk-16gb-ddr5-4800mhz-so-dimm-cl40-11v-non-ecc-tqcv2k08pb33",
+  "new": true
+ },
+ {
+  "rule": "ddr5-laptop-16",
+  "listing_id": "6c8b823211b2b32066d0108c",
+  "price_egp": 9900.0,
+  "message": "16GB DDR5 laptop stick: 9,900 EGP (target ≤ 10,000)\nDar El Computer: RAM Lexar 16GB DDR5 5600MT/s Laptop Memory Module — Lexar / NEW\nhttps://dar-elcomputer.com/products/ram-lexar-16gb-ddr5-5600mt-s-laptop?variant=52488509751616",
+  "new": false
+ },
+ {
+  "rule": "ddr5-laptop-16",
+  "listing_id": "8ab8bd6370631fc92b7b9641",
+  "price_egp": 9300.0,
+  "message": "16GB DDR5 laptop stick: 9,300 EGP (target ≤ 10,000)\nDar El Computer: RAM ACER Laptop SO-DIMM 16GB DDR5 5600MT/s Memory Module — ACER / NEW\nhttps://dar-elcomputer.com/products/ram-acer-laptop-so-dimm-16gb-ddr5-5600mt-s-memory-module?variant=52641241694528",
+  "new": false
+ },
+ {
+  "rule": "ddr5-laptop-16",
+  "listing_id": "eed8fa1ee93e05a7d57caf83",
+  "price_egp": 9700.0,
+  "message": "16GB DDR5 laptop stick: 9,700 EGP (target ≤ 10,000)\nDar El Computer: RAM ACER LAP 16GB DDR5 4800 MT/s Laptop Memory Module — ACER / NEW\nhttps://dar-elcomputer.com/products/ram-acer-lap-16gb-ddr5-4800-mt-s-laptop?variant=52640090423616",
+  "new": false
+ },
+ {
+  "rule": "ddr5-laptop-16",
+  "listing_id": "908912aa72a1a4cf6021f9cf",
+  "price_egp": 9600.0,
+  "message": "16GB DDR5 laptop stick: 9,600 EGP (target ≤ 10,000)\nDar El Computer: RAM Module Crucial 16GB DDR5 4800MHz SODIMM Laptop Memory — Crucial / NEW\nhttps://dar-elcomputer.com/products/16g-ddr5-crucial-4800-laptop?variant=49552207544640",
+  "new": false
+ }
+]
